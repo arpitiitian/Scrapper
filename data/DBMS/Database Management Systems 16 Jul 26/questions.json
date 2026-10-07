@@ -1,0 +1,679 @@
+{
+  "paper": {
+    "id": 563,
+    "name": "Database Management Systems 16 Jul 26",
+    "description": "Database Management Systems 16 Jul 26",
+    "uuid": "233b7997-0d3",
+    "year": 2026,
+    "source": "pyq",
+    "exam": "Quiz 1",
+    "course": null,
+    "subject": "DBMS",
+    "source_url": "https://quizpractice.space/question-paper/practise/5/233b7997-0d3",
+    "scraped_at": "2026-10-03T09:04:14.508587+00:00"
+  },
+  "questions": [
+    {
+      "question_id": 126757,
+      "question_number": 2,
+      "uuid": "1bf6945e-01cf-4200-93f6-9bb7ad24dab7",
+      "type": "MCQ",
+      "question": "Which of the following components of the Database Management System (DBMS) is primarily responsible for generating and selecting the most cost-effective execution plan for a given SQL query?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Parser and Translator",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Query Optimizer",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Evaluation Engine",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Buffer Manager",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126758,
+      "question_number": 3,
+      "uuid": "6b9a4d34-8a66-4398-8b8a-39e3a2a37522",
+      "type": "MCQ",
+      "question": "Consider the relation Delivery_Fee:",
+      "question_images": [
+        "/question_images/zckVdtGUkrOpKq9HM3bdnJP7M6zokA6ukyCpbc44ZPxrPfUcvq.png"
+      ],
+      "local_question_images": [
+        "images/questions/q3_1.png"
+      ],
+      "options": [
+        {
+          "text": "30.00",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "35.00",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "40.00",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "42.00",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126759,
+      "question_number": 4,
+      "uuid": "a104a23b-a022-43e7-95e6-f30edb95ea18",
+      "type": "MCQ",
+      "question": "Consider the following SQL statements are executed in sequence on a newly created table Shipment:",
+      "question_images": [
+        "/question_images/7nL1t3dof8OTbtnBm7zi4nZPas3nQHyeGZ43obZ8gNnsru1Zr1.png"
+      ],
+      "local_question_images": [
+        "images/questions/q4_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": "app/option_images/vMwJqaeFxWgZkb782ENuV2suuKF2oAf98LD00obe0v0S3mxjzb.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/tNcPB6Ibzf1CTAMGCEUq7hjhYqRJARDO6swpAiz9wZT1w2r3jh.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/OAFXqqSYEbchRaKOvw31MIBqyhpW9fJa1bfvaQitJ8veyZvpb5.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/9Y9QYsNEqF7uj38MdMUOFmAZJ9LebpUyoS0hB7283yI09FZRym.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126760,
+      "question_number": 5,
+      "uuid": "48d58e24-fa9e-4a8b-932b-a6b580d6f6b7",
+      "type": "MCQ",
+      "question": "Create a table Assignment(AssignID, PilotID, FlightNo, Date) with the following criteria that must be satisfied:  • Every assignment must have a unique AssignID. • Each pilot can only be assigned to a specific flight once on any given date. • Pilots may share the same flight number on different dates.  Which of the following SQL queries can be used to correctly create the table Assignment?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": "app/option_images/GSqIamkDNAPD38ysqpneLJikvcU1RV7Hme4h17byl33O254PaS.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/h4Wk8d6mZxkMGJ6V7Y4QRnBp5YnVtHTmIPoXmrS2r1ffRwgRWF.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/Qrx58bUCEc6afAJqK2j7fwbAdNaSUEY7N66MyvIRoQxptmJ1MR.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/IJDSxefCXA0PREGC2BJpzKmC1P19HDinNtjkKiMyZrpHI9q3aD.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126761,
+      "question_number": 6,
+      "uuid": "aebe59c9-a980-4ea0-a9c1-88fd778ae23e",
+      "type": "MCQ",
+      "question": "",
+      "question_images": [
+        "/question_images/SmtX5qP6P9nzZ1EEquegd0NVrquiF09lTm4dt98Z5jdLqtkwW6.png"
+      ],
+      "local_question_images": [
+        "images/questions/q6_1.png"
+      ],
+      "options": [
+        {
+          "text": "Names of pilots who earn less than the most experienced person in their airline.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Names of pilots who earn more than the most experienced person in their airline.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Names of pilots who earn more than all less experienced colleagues in their airline.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Names of pilots who earn less than all less experienced colleagues in their airline.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126762,
+      "question_number": 7,
+      "uuid": "0ffc0dc2-6a9f-48d5-9a5a-53aa83f8b494",
+      "type": "MCQ",
+      "question": "Consider the relational schemas Pilot, Aircraft_Type and Certified:",
+      "question_images": [
+        "/question_images/ggnDHzKPdvr4BekozB11lbUv6n37jxucIccbNh9Mxpr73YuPwb.png"
+      ],
+      "local_question_images": [
+        "images/questions/q7_1.png"
+      ],
+      "options": [
+        {
+          "text": "Names of pilots who are certified for at least one aircraft type",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Names of pilots who are certified for exactly one aircraft type",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Names of pilots who are certified for all available aircraft types",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Names of pilots who are not certified for any aircraft type",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126763,
+      "question_number": 8,
+      "uuid": "177e1ed9-3dde-4ea1-995a-c8327e4978bf",
+      "type": "MSQ",
+      "question": "Consider the following relational schema for a movie database:",
+      "question_images": [
+        "/question_images/RLL9rouUceXDlvc4ShtdAp1slAzjARMD6VWt0o0SBlAuW4gXeB.png"
+      ],
+      "local_question_images": [
+        "images/questions/q8_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q8_option1.png",
+          "inline_images": [
+            "images/options/q8_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/BkKa0lR7ocBmGAz5oNn3rV4WqQiFHUzMmnZNoAjHggEFa0lmMp.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/w9aayfrALU0dYmneqlDGNiwt6ZYCRSJrvvE9QnXx6cbPerYB6s.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/KYwDkt2pbk4YlWizWWJcdstC2SrUKNhvpQrdg5WZGeTPKm0ZPJ.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126764,
+      "question_number": 9,
+      "uuid": "36e1157b-b1c9-4bcb-a2da-45fe43ef4a2b",
+      "type": "MSQ",
+      "question": "Consider two relations R(A, B) and S(B, C). Which of the following SQL queries is/are logically equivalent to the Relational Algebra expression <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": "app/option_images/W2AT4VBfZgWVLLpjgWDJ6mC7K4CTYGGqcFilIS2E03pbxtUUFo.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/INaGyQWKkV7c6lKkTs9vyNoiwhTjLvIyc1STMFS6moxKKw4NK4.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/LvnNEEHkxKdI9cLpPhgbtQKROQKOboPFKp8CvSiZmPP3s8ypBf.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/jH4k22RfkJn2gtbJJO8bs5K5lIQBKzcomsnSp3rpTr0xQG7kBb.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126765,
+      "question_number": 10,
+      "uuid": "666f7947-c4a5-4958-a05b-f0bf0f69694b",
+      "type": "MSQ",
+      "question": "Consider the Entity-Relationship (ER) diagram below representing an organization’s logical schema of their database:",
+      "question_images": [
+        "/question_images/nHuuKv5Cf7U5j4v6rseaWJ5V9kfVPtT6Iquq8OGK4fDPohFdhT.png"
+      ],
+      "local_question_images": [
+        "images/questions/q10_1.png"
+      ],
+      "options": [
+        {
+          "text": "The Skill attribute is multi-valued and requires a separate relational table with (Emp_ID, Skill) as its composite primary key",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "The minimum number of relational tables required to map this entire ER diagram to a relational schema is 6",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "The composite attribute Name will typically require a separate table to be mapped correctly.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The relational table for the weak entity Dependent will have a primary key consisting of only Dep_Name and DOB",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126766,
+      "question_number": 11,
+      "uuid": "a72ea7fe-aa87-4a1a-a8e7-14d6f4a46e87",
+      "type": "MSQ",
+      "question": "Consider the following two relations <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAgCAIAAAB7KQSlAAACAElEQVR4nO1Uu67iMBD12MklVJTUIChB0CMENZ/AZ1DQwndQAFXER9AiIfGSIhre/EFEgOA49mwxKOxud7XNFneKaOKZozNzfGRARPbN4N8F/GD+CWOMoZ8koYjj+K9Ea/3GcM7jOEZEzjlj7PV6UYdlWYiotbYsizGGiEKIz2xUpvzr64sxFoYhYwwAOOdRFP3OwxCRSCi01smJlDI5eb1eSQ9XSmmtXde9Xq+I6Pv+fD6/3++MMdu2lVK0ZCqV+mjAOW+327fbrdVq9Xq9brd7Pp+bzabv+wBg2zYAUGuyJ99sNpVKpdFohGG43+8Hg4HrurfbzRhD0wshgiB4Pp+2bb+JxuPx5XJxXTefz+92OynldDqdTCY0+mg06vf7hUJhsVjQYojIjDGI2Ol0qtUq7ZrUtNbr9fp4PBImkcECgOfzud1u6/V6GIbpdJoxRoo5jlMqlaIoAoA4jhMZuNZaSnk4HMrlMgG01qlUynEcUiydTkspSQml1Fu32WwWx3GtVqM7EUIgYhiGnHMhhJTSsiwiIRk4AHiel81mC4UCAFANAIiTDAEA9/v983JEURQEwel0MsbQ9Sul8M8oFovL5TLxB7dt23GcXC6nlCIL0mxkcxJDKfV4PKjEGANCk3MpMcZwzunb7/c9z1utVqVSKZPJDIdDIQT8vG//NeYXnyGlvvqERgYAAAAASUVORK5CYII=\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> and <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAgCAIAAAB7KQSlAAACUUlEQVR4nO1TPUtrQRCdnXuvSVBLOwOxswh+FMEuaG1hk85UVgaEFBZptdKfINrZ3Mom+AtEEKsoGkKIKCmMBCKGRN292Y+xmHCfr5QHr3Kq2Z1zds/MnhVEBD8M/Cnhl/NPHOccL+Ikzo0xAGCttdb+xUFEYwwRISIAKKUAQAihlPJ9HwA8z+MSh4h94JzjAidEJISw1jrngiD4jkG+mm+Ld621QoiPjw/P82KC1poxqLW21oZh2G63iajf719fX7+/vxtjJicnASCKIhYckxERNzc3B4PB+vr63t5epVJ5enpaW1uTUgKAlDKRSDjnkslkPBi8ublZWlpaXV2VUrZarZOTkzAMB4OBEMIYk0qlpJS1Wo31c/N+vV4vFotXV1cAsL+/PxqNyuVyr9ebmpoCgNPTU9/3tdZbW1ulUml7e3s8CiLa3d1dXl4mIqWUtZaIrLWdTiefzzcaDSI6Pj5Op9MvLy9EhEKIz8/Per2ez+dZPSJGUYSIr6+v3W5XKWWMWVxcTCQSz8/PAIDW2iiKHh4eFhYWUqkUj577zmazjUZjfn7e9/3Ly8uJiYl0Oj3Wdn5+nslkms2mc04pRUTOOVbI0ev1crnc2dkZ2wWI6ODgYGVl5TuIQ2tNRG9vb4VC4ejoaDgc8j6MRqPhcPj4+Oic42MYKqVkxM7OTrVaJaJarXZ7e0tEGARBMpmcm5vTWnuex44kIn7Ew8PD2dnZ6enpi4uLMAxnZmbGHjXGsH85iT16d3e3sbEx9hhiEAT39/eI+MfXP/tzv5z/w/kCI6+xMAU2ZH8AAAAASUVORK5CYII=\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" />",
+      "question_images": [
+        "/question_images/ylCMnunDWyke2NUQSPlmjCzsPzIS4n3IF4EVKLvTh5qVCeJMzL.png"
+      ],
+      "local_question_images": [
+        "images/questions/q11_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q11_option1.png",
+          "inline_images": [
+            "images/options/q11_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q11_option2.png",
+          "inline_images": [
+            "images/options/q11_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q11_option3.png",
+          "inline_images": [
+            "images/options/q11_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q11_option4.png",
+          "inline_images": [
+            "images/options/q11_option4.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126767,
+      "question_number": 12,
+      "uuid": "3208942c-16a2-4567-851f-5206a39502b5",
+      "type": "SA",
+      "question": "Suppose relation R(A,B,C,D) has candidate keys: {A,B} and {A,C}. How many distinct superkeys does relation R have?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126768,
+      "question_number": 13,
+      "uuid": "f0bf743f-fe93-4e7d-bcc6-6c042a34907d",
+      "type": "MCQ",
+      "question": "Let R(A,B) = {(1,2),(2,3),(3,4)} and S(B,C) = {(2,5),(3,6)}. Find the number of tuples in <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> .",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "2",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "3",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "4",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "6",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126769,
+      "question_number": 14,
+      "uuid": "bf8b98ee-68b3-4761-ac0b-6f66636a17b9",
+      "type": "MCQ",
+      "question": "Consider the following three tables:",
+      "question_images": [
+        "/question_images/tTKesOQbxAiHzYtpWoNSL9MQqHkS3M9B0RppSES02sdsZ2OGoV.png"
+      ],
+      "local_question_images": [
+        "images/questions/q14_1.png"
+      ],
+      "options": [
+        {
+          "text": "2",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "3",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "4",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "5",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126770,
+      "question_number": 15,
+      "uuid": "3e408169-e7b9-4fc9-95b7-2f50c34fe720",
+      "type": "MCQ",
+      "question": "Consider an EER model in which Person is a supertype entity type. Two subtype entity types, Employee and AccountHolder, are defined as specializations of Person.  • A person may be an Employee only. • A person may be an AccountHolder only. • A person may be both an Employee and an AccountHolder. • A person may belong to neither subtype and exist only as a Person.  Which specialization constraints apply to this specialization?  Identify the constraints on specialization with respect to the above scenario.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Disjoint and Partial",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Overlapping and Partial",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Disjoint and Total",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Overlapping and Total",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126771,
+      "question_number": 16,
+      "uuid": "90fc5c13-70f6-4785-bfd6-ba1ce779549f",
+      "type": "MSQ",
+      "question": "Consider two relations R(A,B) and S(B). Relation R contains 10 tuples and relation S contains 2 tuples. Both relations contain strictly non-null values.  Which of the following statements regarding the relational algebra division operation R÷S are TRUE?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "The maximum possible number of tuples in R÷S is 5",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "The minimum possible number of tuples in R÷S is 1",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "R÷S can be equivalently expressed as",
+          "image": null,
+          "local_image": "images/options/q16_option3.png",
+          "inline_images": [
+            "images/options/q16_option3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "If a new, distinct tuple is inserted into relation S, the number of tuples in the resulting R ÷ S might increase",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126772,
+      "question_number": 17,
+      "uuid": "799d47dd-0541-43c0-b388-f456d78ca8f9",
+      "type": "SA",
+      "question": "Consider the following Employee table:",
+      "question_images": [
+        "/question_images/pnX8o1fAtKAIzypeEBFnREOSKbLcI9WgsH9LkjCg6z1w9cnuyN.png"
+      ],
+      "local_question_images": [
+        "images/questions/q17_1.png"
+      ],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    }
+  ]
+}

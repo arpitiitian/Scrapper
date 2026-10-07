@@ -1,0 +1,573 @@
+{
+  "paper": {
+    "id": 553,
+    "name": "CT 16 Jul 26",
+    "description": "CT 16 Jul 26",
+    "uuid": "046647f6-226",
+    "year": 2026,
+    "source": "pyq",
+    "exam": "Quiz 1",
+    "course": null,
+    "subject": "CT",
+    "source_url": "https://quizpractice.space/question-paper/practise/1/046647f6-226",
+    "scraped_at": "2026-10-03T07:35:45.660285+00:00"
+  },
+  "questions": [
+    {
+      "question_id": 126500,
+      "question_number": 2,
+      "uuid": "e7e8e9cf-2eb0-4345-85e0-eb75e33435ba",
+      "type": "MCQ",
+      "question": "",
+      "question_images": [
+        "/question_images/w7147lsbf1tVIjtnIPKQ66GKnpQrVxyU2fYAEWZojAMrVjqQcy.png",
+        "/question_images/dUbnyWM8Bd0xCNjUlTCqi7yHt4inq2NoZvpFWKs4kCg8XIE61F.png"
+      ],
+      "local_question_images": [
+        "images/questions/q2_1.png",
+        "images/questions/q2_2.png"
+      ],
+      "options": [
+        {
+          "text": "Useful Data has been mentioned above.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "This data attachment is just for a reference & not for an evaluation.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126501,
+      "question_number": 3,
+      "uuid": "ee62bb2f-f2ae-48e8-a544-9062981ce37c",
+      "type": "MCQ",
+      "question": "The following pseudocode is executed using the Word dataset. What will count represent at the end of the execution?",
+      "question_images": [
+        "/question_images/OiFdrWtt57jcYKU7Wp1PGYouVJJ4dJd0LzUU1swqNSjfj4hUTo.png"
+      ],
+      "local_question_images": [
+        "images/questions/q3_1.png"
+      ],
+      "options": [
+        {
+          "text": "Number of words which are nouns and have at most four letters",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Number of words which are either not nouns or have at least four letters but not both",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Number of words which are either nouns or have at most four letters or both",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Number of words which are nouns and have at least four letters",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "5.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126502,
+      "question_number": 4,
+      "uuid": "33e0890b-287f-45a8-b6ee-06964edc259e",
+      "type": "MCQ",
+      "question": "The following pseudocode is executed on the \"Library\" dataset. What will count represent after the pseudocode below is executed?",
+      "question_images": [
+        "/question_images/Vd6GbGBq6DDzbLFcKCvLtjDWZneQYhnmg6yRIhaVOfdOV8YCyM.png"
+      ],
+      "local_question_images": [
+        "images/questions/q4_1.png"
+      ],
+      "options": [
+        {
+          "text": "Number of book pairs that have different authors but are written in the same language",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Number of book pairs that have different authors and languages",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Number of book pairs that have the same author but are in different languages",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Number of book pairs that have same author and are in the same language",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "5.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126503,
+      "question_number": 5,
+      "uuid": "ad32a0bb-3578-48ee-8247-cabe015dac5e",
+      "type": "MCQ",
+      "question": "Statement  The following pseudocode is executed using the \"Words\" dataset. At the end of the execution, count stores the number of pairs of verbs such that both verbs have either different letter counts or both end with a full stop. Choose the correct code fragment to complete the pseudocode.",
+      "question_images": [
+        "/question_images/YPgNVEfwH6LBvGLasII7EDzTeoyjVCLBR8LYheKCySSetkVajT.png"
+      ],
+      "local_question_images": [
+        "images/questions/q5_1.png"
+      ],
+      "options": [
+        {
+          "text": "Statement 1: X.PartOfSpeech == \"Verb\" Statement 2: X.PartOfSpeech == Y.PartOfSpeech Statement 3: X.Word and Y.Word end with a full stop",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Statement 1: X.PartOfSpeech == Y.PartOfSpeech Statement 2: X.PartOfSpeech == \"Verb\" Statement 3: X.Word and Y.Word end with a full stop",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Statement 1: X.PartOfSpeech == \"Verb\" Statement 2: X.Word and Y.Word end with a full stop Statement 3: X.PartOfSpeech == Y.PartOfSpeech",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Statement 1: X.Word and Y.Word end with a full stop Statement 2: X.PartOfSpeech == Y.PartOfSpeech Statement 3: X.PartOfSpeech == \"Verb\"",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "5.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126504,
+      "question_number": 6,
+      "uuid": "7d74e4c3-9520-4455-a079-d685c6669195",
+      "type": "MCQ",
+      "question": "Match the following expressions in the Column 1 with the appropriate values in Column 2.",
+      "question_images": [
+        "/question_images/6BdBtUDJBL37mbZ4Lj2gliOOVRKiuiqzqYyClWBe6LL1lIFkHs.png"
+      ],
+      "local_question_images": [
+        "images/questions/q6_1.png"
+      ],
+      "options": [
+        {
+          "text": "a - (3), b - (2), c - (2), d - (5), e - (3)",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "a - (1), b - (3), c - (2), d - (1), e - (2)",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "a - (3), b - (2), c - (1), d - (3), e - (2)",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "a - (1), b - (3), c - (2), d - (1), e - (1)",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126505,
+      "question_number": 7,
+      "uuid": "be1c56bf-0934-4c24-b029-e6bafc945367",
+      "type": "MCQ",
+      "question": "The following pseudocode is executed using the “Scores” dataset.\nWhich of the following statements is correct?",
+      "question_images": [
+        "/question_images/7d1KVxXKigVDS2F9QdhO0HqhJ5qpF4qTJ6BaeJNDyXLjE3Mvmu.png"
+      ],
+      "local_question_images": [
+        "images/questions/q7_1.png"
+      ],
+      "options": [
+        {
+          "text": "A represents the number of female students whose total marks are at least 250.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "B represents the number of female students whose total marks are less than 250.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "B represents the number of students whose total marks are less than 250.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "A represents number of male students whose total marks are at most 250..",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126506,
+      "question_number": 8,
+      "uuid": "f1ce74a2-7805-4854-acbb-f8bf8b8edfed",
+      "type": "MSQ",
+      "question": "The following pseudocode is executed using the Shopping Bills dataset. At the end of the execution, A captures the lowest price across all items purchased from Big Bazaar. But the pseudocode may have mistakes in one or more lines. Identify all such lines (if any). Assume that all statements not listed in the options below are free of errors.",
+      "question_images": [
+        "/question_images/FyV2PtosoablfYBkQYQLwhzVHS2daRlts2bonqxY9fsIBX6y9f.png"
+      ],
+      "local_question_images": [
+        "images/questions/q8_1.png"
+      ],
+      "options": [
+        {
+          "text": "Line 1: Incorrect initialization of *A*",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Line 6: Incorrect conditional statement",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Line 14: Incorrect initialization of *minPrice*",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Line 17: Incorrect conditional statement",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "5.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126507,
+      "question_number": 9,
+      "uuid": "14c71d5c-2c45-40cd-a91e-72656765449c",
+      "type": "SA",
+      "question": "Statement  The following pseudocode is executed using a dataset similar to the \"Words\" dataset, based on the following paragraph.  \"Mountains often appear calm from a distance, hiding their rugged terrain. Moments of reflection help people understand themselves better. The evening breeze carried the scent of flowers across the valley. Morning walks encouraged Rahul to maintain a healthy routine. Birds chirped softly as the sun rose above the horizon.\"\nWhat would be the value of count at the end of the execution of the pseudocode above ?  Assume that upper case and lower case are ignored during comparison of letters.",
+      "question_images": [
+        "/question_images/4qBPHAiVnsLp5J23ECyX7xtQvssLEXKL6FBBSzdsOFXCjTSzX4.png"
+      ],
+      "local_question_images": [
+        "images/questions/q9_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126508,
+      "question_number": 10,
+      "uuid": "efbb95b9-9c64-4031-a821-0b2d2af54e9f",
+      "type": "MCQ",
+      "question": "Statement  The following pseudocode is executed using the “Scores” dataset. What will A represent at the end of the execution?",
+      "question_images": [
+        "/question_images/XKlRMAa7ECTNf0w3lvX2udTc7f4dCjOOuTVgFwJen0aeECzTw8.png"
+      ],
+      "local_question_images": [
+        "images/questions/q10_1.png"
+      ],
+      "options": [
+        {
+          "text": "Number of students with highest marks in Physics among the three subjects",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Number of students with highest marks in Physics and lowest marks in Mathematics",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Number of students with highest marks in Chemistry among the three subjects",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Number of students with lowest marks in Mathematics among the three subjects",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126509,
+      "question_number": 11,
+      "uuid": "f12de5d0-38ec-46f6-9a76-f793259d5239",
+      "type": "MCQ",
+      "question": "Statement  The following pseudocode is executed using the “Olympics” dataset. Procedure doSomething accepts a table where all rows belong to the same player. Assume that the player has won at least two medals and only one medal in any year. At the end of the execution, if (B - A) represents year the gap between first and second medals won by a player then, choose the correct code fragment to complete the pseudocode.",
+      "question_images": [
+        "/question_images/YFmMu3TlYpjbd3L2JKG2pw5NOq8PcyhregqCv6RFPgIcmHaFyu.png"
+      ],
+      "local_question_images": [
+        "images/questions/q11_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": "app/option_images/DM3Ad1faBDsp7NlzXBKb0xalBEq85QjVybL7srjJsy7zI9PqUX.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/li84uo1hWgCc9F1KqlbrYPjuy8VGxSlOZtmjo82cJxL9Qj1NJt.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/QN5juYcYIZV9dBtJk6KrQ3k9p4rzPBDgZqAXYSK0ZKk3lxDukC.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/3I6mzvBInhYpFNifgKEc4hqpNAovpzD1PwerVmKYiqf9K9BKiw.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126510,
+      "question_number": 12,
+      "uuid": "e9ffd0d9-2345-4a3e-ba5e-06e31f002c08",
+      "type": "MCQ",
+      "question": "Statement  The following procedure is executed using \"Words\" dataset. What will A represent at the end of the execution?  Step 1. Arrange all cards in a single pile called Pile 1 Step 2. Maintain two variables A, B and initialize them to 0 Step 3. If Pile 1 is empty then stop the iteration Step 4. Read the top card in Pile 1 Step 5. Increment variable B Step 6. If Word does not end with a full stop then execute step 9 Step 7. If Word ends with a full stop and B > A then store B in A Step 8. Re-initialize the variable B to 0 Step 9. Move the current card to another pile called Pile 2 and repeat from step 3",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Length of the shortest sentence based on the number of words",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Length of the longest sentence based on the number of words",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Length of the longest sentence based on the number of letters",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Length of the shortest sentence based on the number of letters",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126511,
+      "question_number": 13,
+      "uuid": "c1f20b92-6ef3-4695-9718-e3c391372f3c",
+      "type": "MCQ",
+      "question": "Statement  A pair of words is said to be special if it fulfills following conditions:  The number of vowels are the same in both words and the number of consonants are not the same in both words.  The given pseudocode is executed using the “Words” dataset. The variable count in the given pseudocode counts the number of special pairs. Choose the correct code fragment to complete the pseudocode.",
+      "question_images": [
+        "/question_images/nHqupgpOquYmihdPziiEoHvABn1ocqrYtvX60zkpPQd2kjAeBX.png"
+      ],
+      "local_question_images": [
+        "images/questions/q13_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": "app/option_images/PwRw6u1sYhdgP1Y41kbbxUk0kHZZp6BS87hDm91PDiipPq6Hd8.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/37JM89E8y6oJldWZy6XdzG6QBzqmb5O7uIaLo2rwCbmD4ocVvu.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/ThYnvq7JJ1rd6gGNX1pT3RtsTjDpcVrOFgVmH86UrzeXwtEhdf.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/HULBHNiJd9fuGPpyQvR8rKDHqbuJIxAroWxTt2RCi4mFI8ahRv.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126512,
+      "question_number": 14,
+      "uuid": "9be91a07-5610-4632-89b1-55ce87846a22",
+      "type": "MSQ",
+      "question": "Statement  A student proposed a hypothesis that fewer students are born in the first half of the year than the second half of the year. She wrote the following procedure which uses the “Scores” dataset to verify the hypothesis. However, the procedure may contain some errors. Find out the errors if present.  Step 1: Arrange all cards in a single pile called Pile 1 Step 2: Maintain two variables A and B and initialize them to 0 Step 3: If Pile 1 is empty then stop the iteration and start from Step 8 Step 4: Read the top card in Pile 1 Step 5: If the Date of Birth is from 1st January to 30th June then increment A Step 6: If the Date of Birth is from 1st July to 31st December then increment B Step 7: Move the current card to another pile called Pile 2 and repeat from Step 3 Step 8: If A > B then declare the hypothesis to be True Step 9: If A ≤ B then declare the hypothesis to be False",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Step 5 to increment A is incorrect",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Step 6 to increment B is incorrect",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Step 8 to declare the hypothesis as True is incorrect",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Step 9 to declare the hypothesis as False is incorrect",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "The procedure is free of errors",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    }
+  ]
+}

@@ -1,0 +1,1698 @@
+{
+  "paper": {
+    "id": 631,
+    "name": "English2 16 Jul 26",
+    "description": "English2 16 Jul 26",
+    "uuid": "db34a525-0a5",
+    "year": 2026,
+    "source": "pyq",
+    "exam": "Quiz 1",
+    "course": null,
+    "subject": "English 2",
+    "source_url": "https://quizpractice.space/question-paper/practise/18/db34a525-0a5",
+    "scraped_at": "2026-10-07T14:42:14.800855+00:00"
+  },
+  "questions": [
+    {
+      "question_id": 128707,
+      "question_number": 1,
+      "uuid": "89632a0b-ee58-4559-afbc-258a7736e919",
+      "type": "COMPREHENSION",
+      "question": "Read the speech segment given below and fill in the blanks with the appropriate discourse markers. Observe the tone and the punctuation of the passage and choose only the most fitting answer for every blank.  [A conversation in a family of rabbits. The chatter and laughter of baby rabbits are heard.] Flopsy Bunny: Mopsy, don’t push the basket so. [i] _____, Mama said I could carry the basket. Mopsy Bunny: Mama, Mama, she pulled my ears! Mother Rabbit: [ii] _____, that will do! Now, my dears, you may go into the fields… [Peter Rabbit comes out of the burrow humming a tune. Mother Rabbit picks him up and stands him next to his siblings– Flopsy, Mopsy and Cottontail.] Mother Rabbit: …or down the lane, but don’t go into Mr. McGregor’s garden. Your father had an accident there.  Peter [resignedly]: He was put in a pie by Mrs. McGregor. Mother Rabbit [with emphasis]: He was put in a pie by Mrs. McGregor. [iii] _____, run along.  And don’t get into mischief! I am going out.  [The little bunnies scamper off.]  Flopsy Bunny to Peter: Peter! Come along, Peter! Peter Rabbit [while running away from the rest]: Not likely! I am off to the garden! Mother Rabbit [coming out of the burrow with a basket, on her way to the baker’s]: Now then, a loaf of brown bread, and, [iv] _____…one, two, three, four, five currant buns.  Peter Rabbit [sneaking into Mr. McGregor’s garden]: Mama will never find out. [v] _____, I’m quite sure I can outrun Mr. McGregor! Transcribed and adapted from: “Cartoon Only: The World of Peter Rabbit and Friends - The Tale of Peter Rabbit and Benjamin Bunny.”   Based on the above data, answer the given subquestions.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128708,
+      "question_number": 2,
+      "uuid": "9ce511e2-a033-452e-8bd6-570103b1ec51",
+      "type": "MCQ",
+      "question": "Fill in blank [i] with the most fitting discourse marker among the options given below.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "By all means",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Even though",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Recently",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Anyway",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128709,
+      "question_number": 3,
+      "uuid": "ded70cf3-4c4d-4a9a-b42c-61ba2b1277cd",
+      "type": "MCQ",
+      "question": "Fill in blank [ii] with the most fitting discourse marker among the options given below.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Besides",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Come, come",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Instead",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Likewise",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128710,
+      "question_number": 4,
+      "uuid": "5b8be926-436c-4f44-971c-b4ef2b1514b1",
+      "type": "MCQ",
+      "question": "Fill in blank [iii] with the most fitting discourse marker among the options given below.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "It seems to me",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Apparently",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Now",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Unless",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128711,
+      "question_number": 5,
+      "uuid": "a07041ea-8443-41b9-9780-351deaf5f871",
+      "type": "MCQ",
+      "question": "Fill in blank [iv] with the most fitting discourse marker among the options given below.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "let me see, uh",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "In fact",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "After all",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "As long as",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128712,
+      "question_number": 6,
+      "uuid": "5987912b-2fa1-4f46-9ea1-5ea1ef26e00c",
+      "type": "MCQ",
+      "question": "Fill in blank [v] with the most fitting discourse marker among the options given below.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Accordingly",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "And in any case",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Insofar as",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "While",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128713,
+      "question_number": 7,
+      "uuid": "d2c8027d-1d5b-4eee-9af1-5b2d64534b90",
+      "type": "COMPREHENSION",
+      "question": "Given below is a write-up from The Guardian that makes an argument decrying the inequalities in maternal healthcare for women of colour. Go through the paragraph and answer the subquestions:  Institutional racism is  _____ visible in healthcare. A recent example comes from a report published by the Women and Equalities Committee, which finds that black women are almost four times more likely to die as a result of childbirth than white women. MPs behind the report have rightly denounced the government’s failure to address this gulf.  The statistic is not news. Racial inequalities in maternal healthcare have been  _____ for at least two decades. Serena Williams recently drew attention to this phenomenon in the US when writing about the birth of her daughter. The tennis player, who was at risk of blood clots, was told when requesting a scan that medicine was making her “talk crazy”. Once the scan was granted, it revealed what Ms. Williams had suspected. The clots had returned. The resistance she faced is not uncommon. Research from the US shows how racist assumptions that black patients can endure more pain have resulted in doctors being less likely to grant them adequate treatment. In Britain, black women report being denied pain relief, feeling unsafe and seeing their concerns ignored by midwives and doctors.  When politicians and parts of the media promote the idea that racism is a matter of bad apples rather than  _____ failures, it should be no surprise that the role of systemic racism in health is ignored. Many of the problems faced by women of colour in maternity wards are rooted in unconscious biases. Midwives still use the Apgar score, a 1952 tool that checks the health of new-borns by the colour of their skin. Textbooks and equipment are still based around white bodies: pulse oximeters are prone to inaccurate readings when gauging the oxygen levels of people with darker skin. Ethnic minority groups are underrepresented in clinical trials.  The NHS (National Health Service) founded the independent Race and Health Observatory in 2021, and local maternity services have made progress on adopting equality plans, but leadership from the top is needed to adequately address and rectify the issue. So long as politicians trivialise systemic racism and pretend that the journey towards equality is complete, the causes of these health disparities will go undiagnosed.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128714,
+      "question_number": 7,
+      "uuid": "ee6a8221-5a02-4bda-a315-aaf6e250c2d4",
+      "type": "MCQ",
+      "question": "Fill in the blank with the most fitting adverb.  Institutional racism is  _____ visible in healthcare.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Meagrely",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Particularly",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Appropriately",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Beautifully",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128715,
+      "question_number": 8,
+      "uuid": "fb420da3-e4f6-479f-b784-c5b031505b22",
+      "type": "MCQ",
+      "question": "“A recent example comes from a report published by the Women and Equalities Committee, which finds that black women are almost four times more likely to die as a result of childbirth than white women.”  The given statement is significant to the argument that the essay makes because",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "It provides statistical evidence to substantiate the argument",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "It brings maternal health into the essay’s focus",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "It cites a report by the Women and Equalities Committee, which provides a verifiable source for the data",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "All of these",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128716,
+      "question_number": 9,
+      "uuid": "4340a776-c368-4f36-8029-e743ccfd8ef1",
+      "type": "MCQ",
+      "question": "Fill in the blank with the most appropriate verb.  Racial inequalities in maternal healthcare have been  _____ for at least two decades.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Invited",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Archived",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Documented",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Negotiated",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128717,
+      "question_number": 10,
+      "uuid": "b5109168-517a-4e00-9227-722345da1ecf",
+      "type": "MCQ",
+      "question": "Which of the following options illustrates the unconscious biases in maternity wards?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Apgar score, accurate readings of pulse oximeters, clinical trials with well- represented ethnic minorities",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Apgar score, inaccurate readings of pulse oximeters, underrepresentation of minority groups in clinical trials",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Apgar score, pulse oximeters that accurately gauge the oxygen levels of people with darker skin",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Apgar score, the founding of Race and Health Observatory",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128718,
+      "question_number": 11,
+      "uuid": "c896b6c3-43ca-47b6-b75e-1756d8435adb",
+      "type": "MCQ",
+      "question": "Fill in the blank with the most appropriate adjectives  When politicians and parts of the media promote the idea that racism is a matter of bad apples rather than _____ failures, it should be no surprise that the role of systemic racism in health is ignored.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Wider organisational",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Narrower institutional",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Wider vocational",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Steeper recreational",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128719,
+      "question_number": 13,
+      "uuid": "25f7845e-4dac-45a7-be01-1a8f0d375afe",
+      "type": "COMPREHENSION",
+      "question": "Match the content in List A to their corresponding figures of speech in List B. Study List A with specific attention to the sections marked in bold, wherever applicable, before choosing your answer.\nBased on the above data, answer the given subquestions.",
+      "question_images": [
+        "/question_images/JzIeA9hyVy0ZOiUOe8Sk7HDNpUOZFccb92AtupH5Yv4Fb0Z7s2.png"
+      ],
+      "local_question_images": [
+        "images/questions/q13_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128720,
+      "question_number": 12,
+      "uuid": "a57151af-1fd6-4752-a65c-8aeeef784ebe",
+      "type": "MCQ",
+      "question": "Best safety lies in fear",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Simile",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Antithesis",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Pun",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Oxymoron",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Metaphor",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128721,
+      "question_number": 13,
+      "uuid": "b8e558f5-21a1-4c3c-a7a6-0996062190bd",
+      "type": "MCQ",
+      "question": "I am a venereal sore in the private part of language./ The living spirit looking out/ of hundreds of thousands of sad, pitiful eyes/ has shaken me.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Simile",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Antithesis",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Pun",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Oxymoron",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Metaphor",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128722,
+      "question_number": 14,
+      "uuid": "c86ddb75-f3fd-4dea-a060-542fbea38872",
+      "type": "MCQ",
+      "question": "Without rancor, rather with a bitter tenderness, he said: ‘Now you’ll pay for our twenty dead men.’",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Simile",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Antithesis",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Pun",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Oxymoron",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Metaphor",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128723,
+      "question_number": 15,
+      "uuid": "3b051558-45c9-4e5d-be11-698d9b1e53ea",
+      "type": "MCQ",
+      "question": "A gravestone inscription reads thus: Here lies John Yeast. Sorry for not rising.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Simile",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Antithesis",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Pun",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Oxymoron",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Metaphor",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128724,
+      "question_number": 16,
+      "uuid": "9efa77d5-e07c-4744-8280-f6991f57da58",
+      "type": "MCQ",
+      "question": "Come like a light in the white mackerel sky,/ come like a daytime comet/ with a long unnebulous train of words",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Simile",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Antithesis",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Pun",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Oxymoron",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Metaphor",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128725,
+      "question_number": 17,
+      "uuid": "e793c673-75cf-4dcf-827e-ec13e19f137d",
+      "type": "MCQ",
+      "question": "“Magical realism” is an example of paradox. This statement is ____.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "True",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "False",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128726,
+      "question_number": 18,
+      "uuid": "bb6ba502-4809-4a37-b29e-a4dfee88e584",
+      "type": "MCQ",
+      "question": "When speaking the following sentence, if emphasis is laid on the word marked in bold, what would it mean? Choose the most appropriate answer from the given options.  Jiva to Mina: Did you enjoy the excursion on Tuesday?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Did Mina, as opposed to anyone else, enjoy the excursion on Tuesday?",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Did Mina actually enjoy the excursion on Tuesday or did she just go along with it?",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Did Mina enjoy the excursion on Tuesday, as opposed to those on any other days?",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128727,
+      "question_number": 19,
+      "uuid": "a7161378-3bd2-4e76-bcc5-ec99ee1b4b41",
+      "type": "MCQ",
+      "question": "In everyday conversation, it would be very difficult to guess the emotions of a person if there were no modulation such as intonation and stress.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "True",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "False",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128728,
+      "question_number": 20,
+      "uuid": "05bbcdea-7b1f-401a-93d6-61e6b8aa20c2",
+      "type": "MCQ",
+      "question": "‘The sun rises in the east.’ This sentence would ordinarily be spoken in a ______.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Rising intonation",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Flat intonation",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Falling intonation",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Any of these",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128729,
+      "question_number": 21,
+      "uuid": "6e827051-5d1a-4fc2-a3f2-2bd42549483d",
+      "type": "MCQ",
+      "question": "Which of the following sentences uses a discourse marker for confirmation of clarity?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "First of all, there are no white elephants",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Red meat is very healthy. That said, too much of anything is bad",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "You need to solve this equation and find the value of x. Did you get that?",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Overall, the event was a great success",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128730,
+      "question_number": 22,
+      "uuid": "7e2a5a2a-2565-421a-ac50-08a3db87e93e",
+      "type": "MCQ",
+      "question": "‘He is extremely talented’, here the word ‘extremely’ is ___.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Adjective",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Degree adverb",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Verb",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Preposition",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128731,
+      "question_number": 23,
+      "uuid": "402c9ca8-0ecf-49c4-bfe2-a50442eac8b4",
+      "type": "MCQ",
+      "question": "“Even at that distance, I could recognise most of the mourners as they went their solemn way.”  The scope of the focus adverb in this sentence is limited to",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "At",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "That",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Distance",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "At that distance",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128732,
+      "question_number": 24,
+      "uuid": "7a8980d3-753f-452f-898f-424ae4e58f6e",
+      "type": "MCQ",
+      "question": "In the sentence below, apparently is a comment adverb that is used to convey likelihood.  The plane apparently overshot the runway after landing.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "True",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "False",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128733,
+      "question_number": 25,
+      "uuid": "c597c80c-7644-4853-b999-72e0fc50f082",
+      "type": "MCQ",
+      "question": "Choose the appropriate adverb to complete the following sentence.  The decision to restructure the department was __________ received by the staff.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Academically",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Negatively",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Interminably",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Euphemistically",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128734,
+      "question_number": 26,
+      "uuid": "4c39c153-e5c2-4b5f-90f9-5b7fbc12bf1b",
+      "type": "MCQ",
+      "question": "Identify the sentence adverb in the given sentence.  “Slowly, the rising sun appeared over the distant horizon.”",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Over",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Over the distant horizon",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Slowly",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Rising sun",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128735,
+      "question_number": 27,
+      "uuid": "19d288f8-a50f-40a9-b2ee-b96d496a32d7",
+      "type": "MCQ",
+      "question": "Identify the adjective(s) in the following sentence.  There are intricate sculptures in that temple.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Sculpture",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Intricate",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Temple",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "That",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128736,
+      "question_number": 28,
+      "uuid": "30911674-1002-4450-9803-8e41fbc672d6",
+      "type": "MCQ",
+      "question": "Which of the following is true about the given sentence?  “Matt Spireng collected thousands of arrowheads and spearheads.”",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Matt Spireng is both the grammatical subject and the logical subject of this sentence",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Matt Spireng is the grammatical subject of this sentence, but not the logical subject",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Matt Spireng is the logical subject of this sentence, but not the grammatical subject",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "None of these",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128737,
+      "question_number": 29,
+      "uuid": "8b102a1d-bc76-4add-a948-3aa73137c2f4",
+      "type": "MCQ",
+      "question": "The sentence “Sharanya was learning French” is an example of active voice.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "True",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "False",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128738,
+      "question_number": 30,
+      "uuid": "040fa33b-e181-4ecb-a6fb-0286151f3f36",
+      "type": "MCQ",
+      "question": "Fill in the blank with verbs that are in the present perfect continuous tense. Poongodhai and Zara ______ the dream.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Is living",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Has been living",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Have been living",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Lives",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128739,
+      "question_number": 31,
+      "uuid": "4b75c905-3da3-4b88-941d-e2e4b7ce51da",
+      "type": "MCQ",
+      "question": "Identify the tense and aspect from the following sentence. We have been waiting for two hours at the counter.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Past continuous",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Present perfect continuous",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Past perfect continuous",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Simple past",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128740,
+      "question_number": 32,
+      "uuid": "4e5f3d9c-fcda-4d6a-95c2-fa2a6fae2e01",
+      "type": "MCQ",
+      "question": "The sentence “I have typed an essay now” is an example of the present perfect aspect.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "True",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "False",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128741,
+      "question_number": 33,
+      "uuid": "97096a0f-349c-4fa2-93e9-68ad7980ed75",
+      "type": "MCQ",
+      "question": "Einstein, whose well-known theorems are part of the university syllabus, was a German-born theoretical physicist. Here, the relative pronoun is",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Whose",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Part",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Well-known",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "No relative pronoun",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128742,
+      "question_number": 34,
+      "uuid": "088485cf-6ca1-4531-8b0f-d5af35a5a1e1",
+      "type": "MCQ",
+      "question": "What John did surprised everyone. Here the noun clause functions as ___.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Subject",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Apposition",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Object",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "No noun clause",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128743,
+      "question_number": 35,
+      "uuid": "722bf936-a6ab-4009-a53f-b06e67ad1379",
+      "type": "MCQ",
+      "question": "In the following sentence, identify the nature of the adjective. The adjectives are underlined.  “The Jewish community in Kochi is ancient.”",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Attributive, predicative",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Predicative, attributive",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Indicative, attributive",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Imaginative, predicative",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128744,
+      "question_number": 36,
+      "uuid": "514bf89c-94d2-4750-9365-8693ab53f91d",
+      "type": "MCQ",
+      "question": "‘The vegetables, which I bought only yesterday, are beginning to spoil.’ The independent clause is",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "The vegetables which I bought only yesterday",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The vegetables are beginning to spoil",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Which I bought only yesterday",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Which I bought only yesterday are beginning to spoil",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128745,
+      "question_number": 37,
+      "uuid": "17944ee1-b3b5-4572-bde8-5fba0e679310",
+      "type": "MCQ",
+      "question": "‘The book with the blue cover on the shelf in the drawing room is the one that you gave me.’ This sentence has ____ adjuncts.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "1",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "2",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "3",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "4",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128746,
+      "question_number": 38,
+      "uuid": "03a74ed7-5734-42f5-9791-274da6c09013",
+      "type": "MCQ",
+      "question": "Rocky, who is the CEO of CITFAN, launched a new product. Here, the subordinate clause is:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Rocky, who is the CEO of CITFAN",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "who is the CEO of CITFAN",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "launched a new product",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "no subordinate clause",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128747,
+      "question_number": 39,
+      "uuid": "307ddfde-7d11-43b7-9249-6db11e07c5ea",
+      "type": "MCQ",
+      "question": "Fill in the blank with the correct option. I want to lose weight, __ I eat fast food daily.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Nor",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "And",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Yet",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "So",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128748,
+      "question_number": 40,
+      "uuid": "daee18ea-1572-4876-92fe-ecd9a8dd4937",
+      "type": "MCQ",
+      "question": "In the following sentence, identify the adjunct. “Stuart will bowl tomorrow.”",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Stuart",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Will",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Bowl",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Tomorrow",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128749,
+      "question_number": 41,
+      "uuid": "b9131351-ab91-453b-ae98-3e317e2f7035",
+      "type": "MCQ",
+      "question": "“He put the cake in the oven.”Identify the adjunct in the sentence.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "He",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The cake",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "In the oven",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "There is no adjunct",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    }
+  ]
+}

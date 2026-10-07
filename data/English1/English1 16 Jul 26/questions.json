@@ -1,0 +1,1653 @@
+{
+  "paper": {
+    "id": 554,
+    "name": "English1 16 Jul 26",
+    "description": "English1 16 Jul 26",
+    "uuid": "57e4ebfd-2b0",
+    "year": 2026,
+    "source": "pyq",
+    "exam": "Quiz 1",
+    "course": null,
+    "subject": "English1",
+    "source_url": "https://quizpractice.space/question-paper/practise/15/57e4ebfd-2b0",
+    "scraped_at": "2026-10-03T14:24:10.487384+00:00"
+  },
+  "questions": [
+    {
+      "question_id": 126513,
+      "question_number": 1,
+      "uuid": "d89f9dc3-77a9-45e2-b01d-bb4d5631c366",
+      "type": "COMPREHENSION",
+      "question": "Read the following passage and answer the given subquestions.  “She said that she would dance with me if I brought her red roses,” cried the young Student; “but in all my garden there is no red rose.” From her nest in the holm-oak tree, the Nightingale heard him, and she looked out through the leaves, and wondered. “No red rose in all my garden!” he cried, and his beautiful eyes filled with tears. “Ah, on what little things does happiness depend! I have read all that the wise men have written, and all the secrets of philosophy are mine, yet for want of a red rose is my life made wretched.” “Here at last is a true lover,” said the Nightingale. “Night after night have I sung of him, though I knew him not; night after night have I told his story to the stars, and now I see him. His hair is dark as the hyacinth-blossom, and his lips are red as the rose of his desire; but passion has made his face like pale ivory, and sorrow has set her seal upon his brow.” “The Prince gives a ball tomorrow night,” murmured the young Student, “and my love will be of the company. If I bring her a red rose, she will dance with me till dawn. If I bring her a red rose, I shall hold her in my arms, and she will lean her head upon my shoulder, and her hand will be clasped in mine. But there is no red rose in my garden, so I shall sit lonely, and she will pass me by. She will have no heed of me, and my heart will break.” “Here indeed is the true lover,” said the Nightingale. “What I sing of, he suffers: what is joy to me, to him is pain. Surely Love is a wonderful thing. It is more precious than emeralds, and dearer than fine opals. Pearls and pomegranates cannot buy it, nor is it set forth in the marketplace. It may not be purchased of the merchants, nor can it be weighed out in the balance for gold.” “The musicians will sit in their gallery,” said the young Student, “and play upon their stringed instruments, and my love will dance to the sound of the harp and the violin. She will dance so lightly that her feet will not touch the floor, and the courtiers in their gay dresses will throng around her. But with me she will not dance, for I have no red rose to give her”; and he flung himself down on the grass, and buried his face in his hands, and wept.  Source: The Nightingale and the Rose – Oscar Wilde",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126514,
+      "question_number": 2,
+      "uuid": "8f34d526-f5c9-4b3a-89ed-405af2efabae",
+      "type": "MCQ",
+      "question": "Suggest a synonym for the word “wretched”",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Miserable",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Cheerful",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Ordinary",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Nervous",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126515,
+      "question_number": 3,
+      "uuid": "f39a34d3-2e44-4629-9479-0f01b6c7a6ab",
+      "type": "MCQ",
+      "question": "Why is the student unhappy?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "He has lost his books",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "He cannot find a red rose",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "He is too poor",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "He cannot see the play",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126516,
+      "question_number": 4,
+      "uuid": "17627cba-c4ae-47f1-b5de-3a08e32b2e70",
+      "type": "MCQ",
+      "question": "Where does the nightingale live?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "In a rose bush",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "In the palace",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "In a holm oak tree",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "In the Student’s room",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126517,
+      "question_number": 5,
+      "uuid": "5b6582a7-9cf5-49d5-b2ef-46f499c9c109",
+      "type": "MCQ",
+      "question": "What does the nightingale call the student?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "A fool",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "A true Lover",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Selfish",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Dishonest",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126518,
+      "question_number": 6,
+      "uuid": "cfb2d7a3-d2f8-4688-b6e1-d85decc2d56f",
+      "type": "MCQ",
+      "question": "According to Nightingale, love is:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Easy to buy",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Less valuable than gold",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "More precious than emeralds",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Found only in books",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126519,
+      "question_number": 7,
+      "uuid": "7d8688a3-a1d2-4d80-89b7-552b5551581d",
+      "type": "MCQ",
+      "question": "Which word is closest in meaning to “heed”?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Attention",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Anger",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Fear",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Pride",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126520,
+      "question_number": 8,
+      "uuid": "41039e8a-4ac9-4b87-b3c4-08de688dd2a1",
+      "type": "MCQ",
+      "question": "Which word can be a substitute for \"clasped\"?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Held",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Dropped",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Threw",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Opened",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126521,
+      "question_number": 9,
+      "uuid": "de113cf6-d9b7-4f9b-a86a-8f71dc19f4ca",
+      "type": "MCQ",
+      "question": "What is the meaning of “What I sing of, he suffers”?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "The Nightingale dislikes music",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The Student is a musician",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The Nightingale is jealous",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The Student experiences the pain of love",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126522,
+      "question_number": 10,
+      "uuid": "5ae17925-3be3-4393-a081-0311588588ff",
+      "type": "MCQ",
+      "question": "What is the theme of the passage?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Wealth",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Nature",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Love",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Friendship",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126523,
+      "question_number": 11,
+      "uuid": "a4c6d647-7cb0-4b11-953a-5ea8c2aa1567",
+      "type": "MCQ",
+      "question": "Which simile describes the student’s face?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Red as fire",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Cold as ice",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Like pale ivory",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Bright as gold",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126524,
+      "question_number": 12,
+      "uuid": "76948cfd-b929-4d3b-ad68-56006e4b966e",
+      "type": "MCQ",
+      "question": "Look at the word given below and study the sound that is underlined in it. Choose the option which has the same sound: \"Zap\"",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Bus",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Business",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Boss",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Swab",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126525,
+      "question_number": 13,
+      "uuid": "628f311b-5047-4ff8-be59-40d2e7caed52",
+      "type": "MCQ",
+      "question": "All the words below share the same vowel sound except:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Pain",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Main",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Said",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Rain",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126526,
+      "question_number": 14,
+      "uuid": "5e5aca40-da82-42be-a8f1-c0cd25fb464d",
+      "type": "MCQ",
+      "question": "State true or false:The word \"extradite\" has a CCC consonant cluster in it.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "True",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "False",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126527,
+      "question_number": 15,
+      "uuid": "d8f8efe0-3a91-4977-80db-eded5bf7f2a2",
+      "type": "MCQ",
+      "question": "Which semi-vowel does the word \"puerile\" contain?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "/y/",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "/w/",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126528,
+      "question_number": 16,
+      "uuid": "0e96f7f5-cfb1-43e1-8514-882c4545a6b9",
+      "type": "MCQ",
+      "question": "Pick out the word with a diphthong:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Spew",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Fleece",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Ply",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Ugly",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126529,
+      "question_number": 17,
+      "uuid": "e1f851bb-cd79-4ecd-9948-179d024dbc9c",
+      "type": "MCQ",
+      "question": "Choose the word with a “th” sound from the following:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Thick",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Theatre",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Fought",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Both Thick and Theatre",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126530,
+      "question_number": 18,
+      "uuid": "10a10411-36de-4f8e-9d87-9dfe1ec34d76",
+      "type": "MCQ",
+      "question": "Identify the proper noun:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "City",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Teacher",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "School",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Mumbai",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126531,
+      "question_number": 19,
+      "uuid": "7d2df1ab-b85f-41be-ac9a-b2fe2b601245",
+      "type": "MCQ",
+      "question": "Identify the collective noun:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Flock",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Flower",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Teacher",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Bird",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126532,
+      "question_number": 20,
+      "uuid": "03d7364b-de16-460d-9871-4057b905c15a",
+      "type": "MCQ",
+      "question": "Choose the sentence where an adverb modifies another adverb:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "He runs quickly",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "She is extremely intelligent",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "They moved somewhat slowly",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "The garden is beautiful",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126533,
+      "question_number": 21,
+      "uuid": "65658c09-5b21-45be-b663-5438bf184531",
+      "type": "MCQ",
+      "question": "Identify the adjective type in the sentence:“The soup tastes delicious”",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Predicative",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Attributive",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Distributive",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Demonstrative",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126534,
+      "question_number": 22,
+      "uuid": "fd888b49-4f9c-4b5d-9314-cef2de8e9fe0",
+      "type": "MCQ",
+      "question": "Substitute the underlined word with a pronoun:“Sarah helped John.”",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "He",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "She",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Him",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "They",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126535,
+      "question_number": 23,
+      "uuid": "93e5779f-ca13-4178-b598-2977dd8b7769",
+      "type": "MCQ",
+      "question": "Choose the correct pronouns:“________ gave _______ the keys”",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Him, I",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Her, I",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Me, she",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "She, me",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126536,
+      "question_number": 24,
+      "uuid": "4f544107-c909-4100-936b-54ac3dcd35e5",
+      "type": "MCQ",
+      "question": "Identify the correct sentence:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "She has a talent in painting",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "She has a talent with painting",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "She has a talent at painting",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "She has a talent for painting",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126537,
+      "question_number": 25,
+      "uuid": "61bd8895-021f-4e18-874b-e130514f5697",
+      "type": "MCQ",
+      "question": "Which pair shows opposite meaning?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Beside/next to",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Under/beneath",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Before/after",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Among/amidst",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126538,
+      "question_number": 26,
+      "uuid": "d478f827-c818-495a-b82a-779f0ea4485f",
+      "type": "MCQ",
+      "question": "Identify the part of speech of the underlined word:   “Wow! I’m so happy for you!”",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Interjection",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Conjunction",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Adverb",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Adjective",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126539,
+      "question_number": 27,
+      "uuid": "f11ed651-3510-4163-b7fd-43097aec83f3",
+      "type": "MCQ",
+      "question": "Identify the part of speech of the underlined word:   \"Catherine was worried about her work.\"",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Abstract noun",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Verb",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Noun",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Adverb",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126540,
+      "question_number": 28,
+      "uuid": "39bcf20c-1dc6-4087-9644-f8e8a32ca9dc",
+      "type": "MCQ",
+      "question": "Choose the correct option: \"You__________ help me!\"",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Should to",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Have to",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126541,
+      "question_number": 29,
+      "uuid": "52f87210-aa9e-49dd-b0d1-b48a188415a5",
+      "type": "MCQ",
+      "question": "State whether the given meaning of the phrase is true or false: \"Getting a second wind\"  Meaning: Having energy again after being tired.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "True",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "False",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126542,
+      "question_number": 30,
+      "uuid": "34d4a249-9159-4771-8385-67fcd929d5b4",
+      "type": "MCQ",
+      "question": "Choose the correct option:   The phrase \"To build castles in the air\" means ______________.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "To make castles in the sky",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "To create dreams, hopes, or plans that are unrealistic",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126543,
+      "question_number": 31,
+      "uuid": "6b74034a-40a2-431a-b86f-837c20a19b21",
+      "type": "MCQ",
+      "question": "Fill in the blank with the correct phrasal verb:  \"The bullies _____ Isaac.\"",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Tucked in",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Dropped in",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Picked on",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Hit on",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126544,
+      "question_number": 32,
+      "uuid": "c09e26e5-c941-4bf7-8a28-50654e023489",
+      "type": "MCQ",
+      "question": "Spot the sentence with a separable phrasal verb:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "I look forward to our next meeting",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "You might not want to bring that incident up at the moment",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Do you get along well with your in-laws?",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "I came across an old thatched hut",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126545,
+      "question_number": 33,
+      "uuid": "855ca391-3f69-434d-9d7d-1aa3f59ba83d",
+      "type": "MCQ",
+      "question": "Find the incorrect sentence:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "The fair ended and the crowd broke up",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Not one of his friends stuck up for him",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The teacher touched the concept on briefly",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "He has turned into an irrevocable liar, hasn’t he?",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126546,
+      "question_number": 34,
+      "uuid": "864b9fdf-d904-437e-96af-1004ffa79859",
+      "type": "MCQ",
+      "question": "Choose the correct option:   \"You ________ pay attention to the lecture.\"  (Context: To indicate the requirement of appropriate behaviour in the form of advice or suggestion.)",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Might",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "May",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Should",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Can",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126547,
+      "question_number": 35,
+      "uuid": "bbe731e8-efe7-47b8-84f4-056e13510398",
+      "type": "MCQ",
+      "question": "Choose an appropriate prefix that gives the antonym of \"apologetic\":",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Dis-",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Mis-",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Un-",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Non-",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126548,
+      "question_number": 36,
+      "uuid": "762c542c-c809-42bd-a8af-85c6fc3b155d",
+      "type": "MCQ",
+      "question": "Choose the correct option: \"Despite facing financial difficulties, they managed to ____________their savings for several months.\"",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Live up",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Live on",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Live down",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Live through",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126549,
+      "question_number": 37,
+      "uuid": "7eafd922-5199-4f35-b3df-6f7a0a0ffc0f",
+      "type": "COMPREHENSION",
+      "question": "Complete the telephonic conversation given below with the most polite and correct responses.  Employee: ______________________ (1)  HR: Yes, Rakesh. Good morning.  Employee: Good morning ma’am. Sorry to call you instead of emailing, but this is urgent.  HR: _____________(2)  Employee: ______________(3). Something unexpected came up.  HR: I see. How many days are you requesting?  Employee: Just tomorrow. ____________(4)  HR: Okay, I’ll process it right away. I’ll confirm as soon as it’s approved.  Employee: ____________________(5)  HR: You’re welcome. I’ll handle it. Take care.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126550,
+      "question_number": 37,
+      "uuid": "43aa2101-68f7-4396-9cda-8bd0aa6e9308",
+      "type": "MCQ",
+      "question": "Complete blank (1) with an appropriate response:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "I want to apply for a leave",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Hi, am I talking to the HR representative?",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Hello, this is Rakesh from the software development team. Am I talking to Ms. Sunitha?",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "I need to discuss something urgent.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126551,
+      "question_number": 38,
+      "uuid": "cac8d274-8480-4d70-b42f-e299735aabb3",
+      "type": "MCQ",
+      "question": "Complete blank (2) with an appropriate response:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "No problem. What’s going on?",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Call me back later!",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "I am busy right now, just email it to me.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "This better be important.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126552,
+      "question_number": 39,
+      "uuid": "648d0e20-93aa-41cd-9f70-4ae73af3ff02",
+      "type": "MCQ",
+      "question": "Complete blank (3) with an appropriate response:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "I will be taking a leave",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "I need to leave",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "I’m shall not coming in tomorrow.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "I need to take a leave tomorrow.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126553,
+      "question_number": 40,
+      "uuid": "4ced4362-2fca-4a59-af5c-a7f6046f1601",
+      "type": "MCQ",
+      "question": "Complete blank (4) with an appropriate response:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "I’ll be back the day after",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "I’ll show up the day after, no promises",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "I guess I’ll be back the day after",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "I’ll be back when I’m done",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126554,
+      "question_number": 41,
+      "uuid": "a56b73c6-1430-4b94-998e-3eb5a0871a05",
+      "type": "MCQ",
+      "question": "Complete blank (5) with an appropriate response",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Okay, thanks. Just make it happen fast",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Thanks, I guess",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Alright, fine",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Thank you, I really appreciate it",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    }
+  ]
+}

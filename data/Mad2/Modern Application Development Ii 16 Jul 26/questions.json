@@ -1,0 +1,797 @@
+{
+  "paper": {
+    "id": 568,
+    "name": "Modern Application Development Ii 16 Jul 26",
+    "description": "Modern Application Development Ii 16 Jul 26",
+    "uuid": "fe820b4b-de3",
+    "year": 2026,
+    "source": "pyq",
+    "exam": "Quiz 1",
+    "course": null,
+    "subject": "Mad2",
+    "source_url": "https://quizpractice.space/question-paper/practise/10/fe820b4b-de3",
+    "scraped_at": "2026-10-07T15:23:42.389770+00:00"
+  },
+  "questions": [
+    {
+      "question_id": 126859,
+      "question_number": 2,
+      "uuid": "c0e98627-8330-48c3-bdf4-6fb1772f2f9c",
+      "type": "MSQ",
+      "question": "Consider running the following in Browser console:\nWhich of the following statements are correct?",
+      "question_images": [
+        "/question_images/ggjxsRbEck8rdfIKsY4iCProA8Uxm2ND32yaYSSJ3yf6j8o5xh.png"
+      ],
+      "local_question_images": [
+        "images/questions/q2_1.png"
+      ],
+      "options": [
+        {
+          "text": "The first line prints  .",
+          "image": null,
+          "local_image": "images/options/q2_option1.png",
+          "inline_images": [
+            "images/options/q2_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The second line prints  .",
+          "image": null,
+          "local_image": "images/options/q2_option2.png",
+          "inline_images": [
+            "images/options/q2_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "will work in Browser by default because V8 provides the DOM.",
+          "image": null,
+          "local_image": "images/options/q2_option3.png",
+          "inline_images": [
+            "images/options/q2_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "Different runtimes (browser, Node.js, etc.) can provide different APIs even if they use the same JavaScript engine.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126860,
+      "question_number": 3,
+      "uuid": "e563bf69-4077-42d7-b0cc-ba7edd2e0e07",
+      "type": "MSQ",
+      "question": "Which of the following are advantages of component-based frontend frameworks like Vue.js?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Code reusability",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Better maintainability",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Automatic SQL query optimization",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Easier UI management",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126861,
+      "question_number": 4,
+      "uuid": "35b8b33c-bbe1-42e0-afcc-061296601f88",
+      "type": "MSQ",
+      "question": "Which of the following cases is a function being used as a callback?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": "app/option_images/p1hm0jaKwxMWlpYpc1GIy78xOpmEj1GlW69vqdWwIVSNDm2BYC.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/uN3SKQkCiZ6YTsDimyoMbGQdYoMsBzT7oH9iebGf5ThDrlArQL.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q4_option3.png",
+          "inline_images": [
+            "images/options/q4_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/2pSL8e2VrOW2Zrw3G8h6v2Tt8qcN3ArBuwURSz76xsR0ovyscE.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126862,
+      "question_number": 5,
+      "uuid": "4333e30d-c1a7-4bef-9144-7eacac16099e",
+      "type": "MCQ",
+      "question": "What is the correct output order for the following code?",
+      "question_images": [
+        "/question_images/eOWFISKjFBWlTEIGAkUPfpB6beYeLbnBveWIz9ldaWyJ6csSv7.png"
+      ],
+      "local_question_images": [
+        "images/questions/q5_1.png"
+      ],
+      "options": [
+        {
+          "text": "1 2 3 4",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "1 4 2 3",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "2 1 4 3",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "4 1 2 3",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126863,
+      "question_number": 6,
+      "uuid": "62433295-a1dc-4007-8be6-0b916a73f218",
+      "type": "MCQ",
+      "question": "A child component is initially visible using <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> . The parent first updates a prop passed to the child, and then sets <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> . After the child has already mounted once, which sequence can occur in the child after initial render?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "->  ->  ->",
+          "image": null,
+          "local_image": "images/options/q6_option1_1.png",
+          "inline_images": [
+            "images/options/q6_option1_1.png",
+            "images/options/q6_option1_2.png",
+            "images/options/q6_option1_3.png",
+            "images/options/q6_option1_4.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "->  ->  ->",
+          "image": null,
+          "local_image": "images/options/q6_option2_1.png",
+          "inline_images": [
+            "images/options/q6_option2_1.png",
+            "images/options/q6_option2_2.png",
+            "images/options/q6_option2_3.png",
+            "images/options/q6_option2_4.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "->  ->  ->",
+          "image": null,
+          "local_image": "images/options/q6_option3_1.png",
+          "inline_images": [
+            "images/options/q6_option3_1.png",
+            "images/options/q6_option3_2.png",
+            "images/options/q6_option3_3.png",
+            "images/options/q6_option3_4.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "->  ->  ->",
+          "image": null,
+          "local_image": "images/options/q6_option4_1.png",
+          "inline_images": [
+            "images/options/q6_option4_1.png",
+            "images/options/q6_option4_2.png",
+            "images/options/q6_option4_3.png",
+            "images/options/q6_option4_4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126864,
+      "question_number": 7,
+      "uuid": "a7e0a5fd-92c0-4989-874a-020ee94284c2",
+      "type": "MCQ",
+      "question": "Consider the following JavaScript code snippet.\nWhat will be the output of the above code on the browsers’ console?",
+      "question_images": [
+        "/question_images/PBRyUvAYpyfk06p49CNSqIMB4p8cGK8GCj1j5KqR2Ox0MgBISi.png"
+      ],
+      "local_question_images": [
+        "images/questions/q7_1.png"
+      ],
+      "options": [
+        {
+          "text": "50 50   60   40",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "50 50   60   60",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "50 30   60 60",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "50 30   60   40",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126865,
+      "question_number": 8,
+      "uuid": "cdd48a43-d5d5-46ef-b006-510c1451e6bc",
+      "type": "MCQ",
+      "question": "Consider the following JavaScript code snippet.\nWhat will be the output of the above code on the browsers’ console?",
+      "question_images": [
+        "/question_images/Ahlr3qeNEmOF33gelNwDJXR1NcBa2nl4UUozhsU2clpY5MLV4B.png"
+      ],
+      "local_question_images": [
+        "images/questions/q8_1.png"
+      ],
+      "options": [
+        {
+          "text": "The European countries are Spain and Germany. The final numerical value is: 115.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The European countries are Italy and England. The final numerical value is: 65.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The European countries are Spain and Germany. The final numerical value is: 65.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "The European countries are Italy and England. The final numerical value is: 115.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126866,
+      "question_number": 9,
+      "uuid": "98bcfb44-11ee-452f-989e-b397ff247fd2",
+      "type": "MCQ",
+      "question": "Consider the following JavaScript code snippet.\nWhat will be the output of the above code on the browsers’ console?",
+      "question_images": [
+        "/question_images/dYMNOwnvsfd9QHX44RxAV953JgujS54UdbnpJ1fDwdgyb2XGTF.png"
+      ],
+      "local_question_images": [
+        "images/questions/q9_1.png"
+      ],
+      "options": [
+        {
+          "text": "The selected elements are: Gold and Argon",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "The selected elements are: Aluminium and Silver",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The selected elements are: Argon and Neon",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The selected elements are: Gold and Neon",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The selected elements are: Argon and Gold",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126867,
+      "question_number": 10,
+      "uuid": "dff912b4-e209-4cf9-b67a-ad2c78f28426",
+      "type": "MCQ",
+      "question": "Which of the following Vue directives are correctly matched with their purpose?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "v-show → fetching api",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "v-for → Iteration over lists",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "v-bind → Conditional rendering",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "v-model → Event handling only",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126868,
+      "question_number": 11,
+      "uuid": "1761b4c2-2c2d-4ff7-8347-fa46a8d75096",
+      "type": "MSQ",
+      "question": "Given the following parent-child setup in Vue 2:\nand inside the child:\nWhich statements are correct?",
+      "question_images": [
+        "/question_images/FLCuSPFwqTzuaqd4tNKjRqcH2gQBiRoE0HPshOb0A8J6xqfzwq.png",
+        "/question_images/Uxjp96Y3KPe66oycnbsukoDC8bONemDguaL8Va5nKlHxiesjGe.png"
+      ],
+      "local_question_images": [
+        "images/questions/q11_1.png",
+        "images/questions/q11_2.png"
+      ],
+      "options": [
+        {
+          "text": "flows from parent to child through props.",
+          "image": null,
+          "local_image": "images/options/q11_option1.png",
+          "inline_images": [
+            "images/options/q11_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "is a custom event sent from child to parent.",
+          "image": null,
+          "local_image": "images/options/q11_option2.png",
+          "inline_images": [
+            "images/options/q11_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The child should directly change  to update the parent source of truth.",
+          "image": null,
+          "local_image": "images/options/q11_option3.png",
+          "inline_images": [
+            "images/options/q11_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "If  changes in the parent, the child can receive the updated prop value.",
+          "image": null,
+          "local_image": "images/options/q11_option4.png",
+          "inline_images": [
+            "images/options/q11_option4.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126869,
+      "question_number": 12,
+      "uuid": "3b137d45-9759-47c1-b921-d269bfc64479",
+      "type": "MSQ",
+      "question": "Identify the issue in the following Vue.js code:\nWhy does the <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> value not update correctly when the button is clicked?",
+      "question_images": [
+        "/question_images/MNw1A3qfSPK1vwqZbZRb68PXb1zBAL5wRQE7WqVPKQAd4o6TtS.png"
+      ],
+      "local_question_images": [
+        "images/questions/q12_1.png"
+      ],
+      "options": [
+        {
+          "text": "should be used instead of",
+          "image": null,
+          "local_image": "images/options/q12_option1_1.png",
+          "inline_images": [
+            "images/options/q12_option1_1.png",
+            "images/options/q12_option1_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "Arrow functions do not bind their own",
+          "image": null,
+          "local_image": "images/options/q12_option2.png",
+          "inline_images": [
+            "images/options/q12_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "should be a function in all Vue instances",
+          "image": null,
+          "local_image": "images/options/q12_option3.png",
+          "inline_images": [
+            "images/options/q12_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "Vue.js does not support external methods",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126870,
+      "question_number": 13,
+      "uuid": "eeadadff-73a2-4c11-a6bb-24aa484a08d6",
+      "type": "MSQ",
+      "question": "Consider the following JavaScript code snippet.\nWhich of the following statements is/are correct?",
+      "question_images": [
+        "/question_images/AJNNLYD9XeFCmHxWyLikRGfyTtWeMyt8jNYkjGvD3bCFcG6ASs.png"
+      ],
+      "local_question_images": [
+        "images/questions/q13_1.png"
+      ],
+      "options": [
+        {
+          "text": "will work correctly and return 8",
+          "image": null,
+          "local_image": "images/options/q13_option1.png",
+          "inline_images": [
+            "images/options/q13_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "will work correctly and return 8",
+          "image": null,
+          "local_image": "images/options/q13_option2.png",
+          "inline_images": [
+            "images/options/q13_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "will work correctly and return 15",
+          "image": null,
+          "local_image": "images/options/q13_option3.png",
+          "inline_images": [
+            "images/options/q13_option3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "will work correctly and return 15",
+          "image": null,
+          "local_image": "images/options/q13_option4.png",
+          "inline_images": [
+            "images/options/q13_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126871,
+      "question_number": 14,
+      "uuid": "4dd3be70-e550-4f30-8b11-07078b2018e2",
+      "type": "MCQ",
+      "question": "Consider the following JavaScript code snippet.\nWhat will be the output of the above code on the browsers’ console?",
+      "question_images": [
+        "/question_images/ZnVQxHcNdSmVjtS61I8xZXEfgFJaX3WNs5CA6576ttXaYRcNDK.png"
+      ],
+      "local_question_images": [
+        "images/questions/q14_1.png"
+      ],
+      "options": [
+        {
+          "text": "You are accessing: 45 You are accessing: 55",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "You are accessing: 25 You are accessing: 35",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "You are accessing: 25 You are accessing: 55",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "You are accessing: 45 You are accessing: 35",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.50",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126872,
+      "question_number": 15,
+      "uuid": "119593db-240d-4dee-9e87-cf5e7da2c0f7",
+      "type": "MCQ",
+      "question": "Consider the following JavaScript code snippet.\nWhat will be the output of the above code on the browsers’ console in correct order?",
+      "question_images": [
+        "/question_images/3upIPBUkwje4CDGKGT3yZuecrTLDvesC3L8ZdrxRN26mQJRpkZ.png"
+      ],
+      "local_question_images": [
+        "images/questions/q15_1.png"
+      ],
+      "options": [
+        {
+          "text": "undefined alpha   beta   delta   Reference Error",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "zeta undefined   beta   delta   Reference Error",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "undefined Reference Error beta   charlie   undefined",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "zeta Reference Error   beta   charlie   undefined",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.50",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126873,
+      "question_number": 16,
+      "uuid": "14acda1c-5c50-4dc8-8f76-de4383cc12e9",
+      "type": "MCQ",
+      "question": "Consider the following JavaScript code snippet.\nWhat will be the output of the above code on the browsers’ console?",
+      "question_images": [
+        "/question_images/47GmOrI6q3CjFXkWJbB79tWAKlFTsK7U8Nx1n0loRzjSDNoBHA.png"
+      ],
+      "local_question_images": [
+        "images/questions/q16_1.png"
+      ],
+      "options": [
+        {
+          "text": "['gust', 'rch', 'ril']",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "['rch', 'ril', 'gust']",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "ril",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "rch",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.50",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126874,
+      "question_number": 17,
+      "uuid": "238f846d-6d5a-40e2-8453-dd80770f31ee",
+      "type": "MCQ",
+      "question": "Consider the following JavaScript code snippet.\nWhat will be the output of the above code on the browsers’ console?",
+      "question_images": [
+        "/question_images/eBJlNCCFUZZJT6WiWyD7OLE6SyDa0DhWOURtdDpjwBzNoyjVaG.png"
+      ],
+      "local_question_images": [
+        "images/questions/q17_1.png"
+      ],
+      "options": [
+        {
+          "text": "Program start First start   First timeout   First end   Second start   Second timeout   Program end",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Program start First start   First end   First timeout   Second start   Second timeout   Program end",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Program start First timeout   First start   First end   Second timeout   Second start   Program end",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Program start First start   First end   Second start   Program end First timeout   Second timeout",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.50",
+      "answer_type": null,
+      "response_type": null
+    }
+  ]
+}

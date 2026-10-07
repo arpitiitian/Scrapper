@@ -1,0 +1,1418 @@
+{
+  "paper": {
+    "id": 552,
+    "name": "Maths1 16 Jul 26",
+    "description": "Maths1 16 Jul 26",
+    "uuid": "4fb731c3-4ac",
+    "year": 2026,
+    "source": "pyq",
+    "exam": "Quiz 1",
+    "course": null,
+    "subject": "Maths1",
+    "source_url": "https://quizpractice.space/question-paper/practise/16/4fb731c3-4ac",
+    "scraped_at": "2026-10-03T14:10:21.440744+00:00"
+  },
+  "questions": [
+    {
+      "question_id": 126483,
+      "question_number": 2,
+      "uuid": "d30de235-b47e-4e77-a4cd-03037ef7650e",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/MrNHdLq7kwnYTt3Ug7haiYA31edAcpNzAETA5cQZEebUrjN1Ad.png"
+      ],
+      "local_question_images": [
+        "images/questions/q2_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126484,
+      "question_number": 3,
+      "uuid": "d298d7df-e0fe-4c81-aa5e-2e866881d3ed",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/Nd1FAvLQeKwABB52rAa9ckw2VaunTQLQv91Em5KQlzjWjARKz7.png"
+      ],
+      "local_question_images": [
+        "images/questions/q3_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126485,
+      "question_number": 4,
+      "uuid": "b8d5c42f-17a9-40e7-be3c-b0fb41add0b4",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/eEIz5HapNF0r1HsD3U4NLA73MQeAXM3dm4i4Nt3vtzFfSlzLjL.png"
+      ],
+      "local_question_images": [
+        "images/questions/q4_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126486,
+      "question_number": 5,
+      "uuid": "8ead738f-2320-40eb-8b79-986244236d5d",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/FuOyy4V4OVhzU4BdR0NtTEsVMbgWqany2FgOKuIoPfAz3Foi5e.png"
+      ],
+      "local_question_images": [
+        "images/questions/q5_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126487,
+      "question_number": 6,
+      "uuid": "03510854-e6c4-45d2-b8f3-e7c884b2c1d2",
+      "type": "MSQ",
+      "question": "",
+      "question_images": [
+        "/question_images/bl0qPmGjBT35YopCjZ9udtv0rjXlsph52InVpKRKx7x2TbXQTS.png"
+      ],
+      "local_question_images": [
+        "images/questions/q6_1.png"
+      ],
+      "options": [
+        {
+          "text": "If  , then both roots of  are equal.",
+          "image": null,
+          "local_image": "images/options/q6_option1_1.png",
+          "inline_images": [
+            "images/options/q6_option1_1.png",
+            "images/options/q6_option1_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "If  , then both roots of  are integers.",
+          "image": null,
+          "local_image": "images/options/q6_option2_1.png",
+          "inline_images": [
+            "images/options/q6_option2_1.png",
+            "images/options/q6_option2_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "There exists a value of  for which  is a root of  .",
+          "image": null,
+          "local_image": "images/options/q6_option3_1.png",
+          "inline_images": [
+            "images/options/q6_option3_1.png",
+            "images/options/q6_option3_2.png",
+            "images/options/q6_option3_3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "If  , then the sum of the roots of  is",
+          "image": null,
+          "local_image": "images/options/q6_option4_1.png",
+          "inline_images": [
+            "images/options/q6_option4_1.png",
+            "images/options/q6_option4_2.png",
+            "images/options/q6_option4_3.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126488,
+      "question_number": 7,
+      "uuid": "970d559f-251f-43c2-9adb-65d9deac3cc5",
+      "type": "MSQ",
+      "question": "",
+      "question_images": [
+        "/question_images/ECdGoXeQVqe8vrIqnTJBirfCm1jD4dAVc3GLSGIHny3Zd4KUEp.png"
+      ],
+      "local_question_images": [
+        "images/questions/q7_1.png"
+      ],
+      "options": [
+        {
+          "text": "The slope of  is .",
+          "image": "app/option_images/LuNmCLdWvYBvx8cpgl5G9fmaAveyh0NnIFCSmoD0AntUzTY7Ck.png",
+          "local_image": "images/options/q7_option1.png",
+          "inline_images": [
+            "images/options/q7_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The equation of  is  .",
+          "image": null,
+          "local_image": "images/options/q7_option2_1.png",
+          "inline_images": [
+            "images/options/q7_option2_1.png",
+            "images/options/q7_option2_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The  -intercept of  is  .",
+          "image": null,
+          "local_image": "images/options/q7_option3_1.png",
+          "inline_images": [
+            "images/options/q7_option3_1.png",
+            "images/options/q7_option3_2.png",
+            "images/options/q7_option3_3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "The  -intercept of  is .",
+          "image": "app/option_images/ZswaG1u7A45yYkymFLoTSFQ372oJgeyLDEHQ4hKP6xXrTGKr1v.png",
+          "local_image": "images/options/q7_option4_1.png",
+          "inline_images": [
+            "images/options/q7_option4_1.png",
+            "images/options/q7_option4_2.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126489,
+      "question_number": 8,
+      "uuid": "dc7a0575-6ca2-4611-a022-414b8ecd0587",
+      "type": "MSQ",
+      "question": "Which of the following statements is (are) correct?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "represents a parabola whose vertex is  .",
+          "image": null,
+          "local_image": "images/options/q8_option1_1.png",
+          "inline_images": [
+            "images/options/q8_option1_1.png",
+            "images/options/q8_option1_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "If  , where  and  , then  is a polynomial of degree  .",
+          "image": null,
+          "local_image": "images/options/q8_option2_1.png",
+          "inline_images": [
+            "images/options/q8_option2_1.png",
+            "images/options/q8_option2_2.png",
+            "images/options/q8_option2_3.png",
+            "images/options/q8_option2_4.png",
+            "images/options/q8_option2_5.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The lines  and  are coincident.",
+          "image": null,
+          "local_image": "images/options/q8_option3_1.png",
+          "inline_images": [
+            "images/options/q8_option3_1.png",
+            "images/options/q8_option3_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The lines  and  are perpendicular to each other.",
+          "image": null,
+          "local_image": "images/options/q8_option4_1.png",
+          "inline_images": [
+            "images/options/q8_option4_1.png",
+            "images/options/q8_option4_2.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126490,
+      "question_number": 9,
+      "uuid": "96b5ae07-eb2f-4d42-ae99-30ef613aa3ad",
+      "type": "SA",
+      "question": "Inscript",
+      "question_images": [
+        "/question_images/iQ1PXAoDaphcuA3L2oOhnXfWddm9QFypkUTtG4JqdQrB77DgfD.png"
+      ],
+      "local_question_images": [
+        "images/questions/q9_1.png"
+      ],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126491,
+      "question_number": 10,
+      "uuid": "e2a2f3cf-8dd7-480e-a9f0-4a13c4ef158a",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/IhdXKilQo2mKtHdD1j51CVYND3MJcK5RPhMC960dCgqVkC4ars.png"
+      ],
+      "local_question_images": [
+        "images/questions/q10_1.png"
+      ],
+      "options": [],
+      "total_mark": "5.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126492,
+      "question_number": 10,
+      "uuid": "90ed89d5-6d15-44b7-ac9d-41ee6f64aa49",
+      "type": "COMPREHENSION",
+      "question": "",
+      "question_images": [
+        "/question_images/4JAM8Y1qXCqEqFFq5RK5rpVB1iPiOgqaGR2JrSHK1CY34MO9pe.png"
+      ],
+      "local_question_images": [
+        "images/questions/q10_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126493,
+      "question_number": 11,
+      "uuid": "49ae8998-2d98-4eea-8823-dbb33226041f",
+      "type": "SA",
+      "question": "Find the number of elements in <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAgCAIAAACtjN7AAAACKUlEQVR4nO2Tv05qQRDGZ/YsLH8SG4yVFBQUdCQ0tsRXoPFRiJ10tjS2lCDxEajtsaAjVhgDKho8Z//N3GLg2Fz1PsCdYrPJ+Z3NN/N9g8wMfytmRkQA8N4XCgVmxu9QqRCC1pqIQgg/ofKe0ACgfnhSBCi1Z35Ctdafn5+Ceu9/0ZrLAIBvUSJCRCJKkuQXAUop59xwOASAGCMzAzNba/lQIQQ5iejm5qbRaLy/v8snSNNUbt57ImLm3W7HzKvVqtVq1ev15XKZZRkzq1KpBADWWq21TKdSqRBRv99vNpvGmNVqZYyJMaoQAgCIdmutCL2/vz85Oel0Osz89vYmzSlxQk5jDABkWXZ1ddXv96vVKjN/fHx47wFAxxjzrkMISZLc3d1dXFwcHR01Go0kSdbrtTGGmbVSSiSKjJeXl+l0Oh6PEbFUKjnnnp6enHPFYlEhoshl5hjj9fX1YDCQFmu1GiK+vr6KW1qCE2NUSj08PEyn09vbW7EQEZVSz8/P++zKUMWFXq+3Xq9zO6y1p6en5+fnYooGgDRNy+XyZDLp9XrlchkAnHPMbIypVqubzeYrFlmWzefzdrv9+Pgo74lt2+327OysXq/Lnzifzy8vLxeLRZqmx8fHs9msUqkUi8XhcDgajbbbrXOu1Wp1u13I85EngZnFdCKSTMldJUnivc9DKTMW24hIKRVjtNYiIu4DdoBkLkQEh63Kt/z3hfkK+z9y/1EA+APz0q1JFtTv/AAAAABJRU5ErkJggg==\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> that are related to themselves in <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAgCAIAAABsC5RsAAADN0lEQVR4nO1VPUv0ShQ+M0lMXEUbsRAULNTF2OhiJYuInYWwf0ARSxH/giBYCFrYWFnZqJ2FsOA2ouLGRVgLsVgUXRUbWV2MyU5mJuctzn1zvXLLt7hwPdXMmTnP+XieSRgiwh81/mfhfhD/V4gmAMRxzDk/PT2dn59XSkkpLcuKoqilpQURR0ZG5ubmJicnDcNQShmGwRgDALpG4QDA+e/iEBERtdaIGATB4uKi67pXV1fkr9frm5ubPT09W1tb+NvCMKRFo9FARKUUfjH4egMRx8fH0+l0GIZCCPLUarWBgQHXdSnrt3ja0hEZBwDTNAFAKfXw8PDy8pLJZGzbbmpqonaq1aoQwnEc2iYmpfyXlgG41to0TUQ0DKNcLgshstksTSqOY6XUyckJACwvL5umSXNsNBoAQEO0LIvK/DsVlSqlRMSlpaV0Ou15nhAijuMoig4ODlzX3d/fT4ZD8WEYRlH0tfHETK11Ql+lUpFSFgqFQqGQz+fv7++np6fPzs7a29sBwHEcKuLt7a21tZVqTBj/R4001+fn566uroWFhTiOtdZa642NjdHR0Wq1GsdxHMeIuL29vbKy0tfX53keIpLz6+IvZmi6nuc1Nze7rssYY4xxzsfGxt7f3/f29pLbmUxmZmZGSqm1BgDGGMVSi+Q0iRkAOD8/Nwwjm80GQeA4DmOsUqk0Gg3f9ykHAAwODmqtbdumEK11wrJSyjRNKSU3DIPOPM/jnA8NDaVSKa21EKJcLtu23dnZSXC+71uWZdt2GIaMMYJLVHF3d/f5+WlZFifib29va7Xa8PBwEASkCdu2X19flVIkzPX19aenJ5o755xzTnxGUaS1Pjw8nJiYWF1dRUR+c3MzNTWVy+U+Pj6KxeLs7Ozx8bFSSmudy+UcxykWi/l8/vHxsb+/HxF9329ra6vX61EUkbYNw0ilUh0dHalUijEGCVn0SL/pq1Qq7ezsHB0dkTzJ2d3dXSqVEFEIobUmJSRPGchFG1rTiybNI2IURUkOiuzt7b28vJRSftM2IgZBwAiI+PlmVG8iYCHE2tra9fX1xcUFEbi7u0tfQkoGAIZhMPz5X/8g/ncQfwEI5/tV83mWpAAAAABJRU5ErkJggg==\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" />",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126494,
+      "question_number": 12,
+      "uuid": "c6ba4e89-b52a-4d7a-b331-8d61ca58e230",
+      "type": "SA",
+      "question": "Find the number of ordered pairs that belong to exactly one of the relations <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAgCAIAAACZ9R/cAAAC3klEQVR4nO1Vv0srQRCevbvkThKxsxC0EfXwbDRYSbCwsxDyB4iIpYj/gmAnaGFjZWUh2tkFTCMqyaFFJIVFEDQqNhKVC/drZ3deMb4g8jqbV/hVu8POtzPffMsKIoKfwfhh/i/Ff0hhAYDW2jCMi4uLlZUVRJRSZjKZNE1zuRwRTU1NLS8vz83NmaaJiKZpCiEAgI8BABARESmliCgMw7W1Nc/zbm5uOP7x8bG7uzs0NLS3t0d/EUURL+I4JiL4GiKi2dlZ13WjKEqShCPtdntsbMzzPL4GEekLENEAAMuyAAARHx4eXl5eCoWCbdvZbFZrDQCtVitJEsdxeNuFlPJTBKWUZVlEZJpmvV5PkqRYLHK3WmtEPD8/B4CNjQ3LsliLOI4BgIXIZDKfWkgpiWh9fd11Xd/3kyTRWqdpenJy4nne8fFxt19uJIqiNE0511JKdUVuNptSykqlUqlUyuXy/f39wsLC5eVlX18fADiOwy28vb3l83muQkoJ3XE8Pz8PDAysrq5qrZVSSqmdnZ3p6elWq6W11loT0f7+/ubm5sjIiO/7RMRBg3sGAN/3e3p6PM8TQgghDMOYmZl5f38/Ojrq6l8oFBYXF4UQiNhV1GI5AaBarZqmWSwWwzB0HEcI0Ww24zjudDpMCgDj4+N8Mxsqm80CgGWaJgAopXzfNwxjYmKC6aWU9Xrdtu3+/n7O73Q6+XweEQ3DsG1bCMHlG0x5d3fXbrcnJyfDMORR2bb9+vqKiGyQ7e3tp6cnABBCBEHAVRiM29vb+fn5UqkUBEGtVltaWjo7O0NEpVSpVHIcp1arlcvlx8fH0dFRIhJC5HK5OI65Cq31py+01mz4bxa+uro6ODg4PT1lmxBREASu61ar1a6hQCnFCvF0tdb8OthsRJSmaZeUTw4ODl5fXyMibwVnsqjfwBV9vmiAJEm2trYajUaj0RgeHu7t7T08PAQA8fuP/FL8A38AoAFzxPG9KwYAAAAASUVORK5CYII=\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> and <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAgCAIAAACZ9R/cAAADFUlEQVR4nO2VvUsrURDF5979SIgQwVJBDSImGhAxaBWCpYiF4F9gSpFU2ltYGgvRIqCYwsYiIlhJCouALFgkmBAwKqioRSRIwN3cvbszr7h5KR6ve80rnGp39u6ZPb85sIyI4N+K/+P7PxL/oYQOAIjIOS+VSul02vM8KaVhGEKIvr4+AEgkEmtrawsLC5xz3/c1TQOA3gUiAhERke/7RGTb9sbGxtTUVKVSUf2vr6/9/f3h4eGDgwNEVCellOppp9MhIiAix3Hod6VSqWg06jhO71yr1ZqYmIjFYr0OEQkhhBBEhIgcAHRdBwDP856fnz8+PmZnZwOBgK7riAgAr6+vruuGQqGe+U6nY5qmaZpdCd/3dV0nIk3TyuWyECKZTDLGlGEpZalUYoxtb28rUSllMBjsdDq+7zPGNE3rslAfmclkotGoZVlCCEQUQlxcXMTj8bOzMyL6/v7uUSMi13UVDl2xVWMbjYaUslgsFovFq6urp6en5eXlUqnU39+PiMqL4zj1en16elptJBAIQE/47e1tcHBwfX0dEVUnm80mEomXlxdEVOvI5/Onp6e5XC6RSBwdHXme192IclEoFMbGxg4PDxUkIrq9vR0fH9/Z2VG39/f3qVSq0WgQUS6Xi0Qin5+fRNTFCQA3NzeapiWTSdu2lduHhwcpJedceTYM4/39vd1uE1E0GjVNs1arIaLeS5tlWZzzeDwOAFJKTdMsy9J1PRQKcc6DweDo6GitViMixli9Xrdte35+nqsJAPD4+NhqtWZmZmzbBgDDMDjnzWbTtu2BgQHF5e7uzjAM0zSbzWY2m93d3Q0EAkIIqNVqi4uLk5OTIyMjkUhkdXX1+vpaSul53uXlZSwWS6fT5+fnm5ubvu8jYrvdXlpaOj4+VhB93+/mAhFV4IlIcVZVrVZPTk6KxSIiep7num4mkykUCkRkWVa1WiUipkKmcoGIjDEppWmaAKDkGGOKNwDs7e1JKefm5sLhcD6f39raGhoaYioXCuof9Ue/XC6vrKxwztWwcDhcqVSklOznP/Ij8Zf6BU2leh/6gRzyAAAAAElFTkSuQmCC\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> .",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126495,
+      "question_number": 13,
+      "uuid": "666021a4-9b56-4dd1-841a-75f0cb8cc635",
+      "type": "MSQ",
+      "question": "Which of the following statements is/are correct?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "is transitive and reflexive.",
+          "image": null,
+          "local_image": "images/options/q13_option1.png",
+          "inline_images": [
+            "images/options/q13_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "is symmetric but not transitive.",
+          "image": null,
+          "local_image": "images/options/q13_option2.png",
+          "inline_images": [
+            "images/options/q13_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "is reflexive and transitive.",
+          "image": null,
+          "local_image": "images/options/q13_option3.png",
+          "inline_images": [
+            "images/options/q13_option3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": ".",
+          "image": null,
+          "local_image": "images/options/q13_option4.png",
+          "inline_images": [
+            "images/options/q13_option4.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126496,
+      "question_number": 14,
+      "uuid": "be3d5398-1d6d-41fa-b9cc-a06386568dcb",
+      "type": "COMPREHENSION",
+      "question": "",
+      "question_images": [
+        "/question_images/QWnpPSRhhsVBRW9VvrwzdvO2UJgENgJtX9Tu4SViwVeNdBAT3b.png"
+      ],
+      "local_question_images": [
+        "images/questions/q14_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126497,
+      "question_number": 14,
+      "uuid": "56d26ce3-ea29-4707-8698-ac22cef7760f",
+      "type": "SA",
+      "question": "What is the degree of <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126498,
+      "question_number": 15,
+      "uuid": "decb62d1-0fe1-44ef-8471-4fefe84db1ed",
+      "type": "SA",
+      "question": "At how many of its real zeros does the graph of <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> cross the <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAgCAIAAABLpRWEAAABlElEQVR4nN2Soa4qQQyGOzM78AArEKhNyIa3QKxBIXgJngGDILhVGDAki0PgSAgPQICQkDVgkGBWYDCQnW13esSckBxz5E3uqfvbP22/tIKZ4deQv5f/oMMY4wQRAQAi/rC8329mttYaY5iZiJxk5rIsmVkwMyJKKQFAKVWWpZRSCEFEnucBgCAipZTr56xKKWYWQhhjpNOIaK29Xq/r9ZqIiGi32y2Xy0qlorUWbupoNAqCQAgxn8+73a7WOk3TPM+n0ykgYhzHm82mLEtEDIKg1+sZY8IwbLVazOxJKV+vV7vdJqIsy7TWURRprfv9fqPRAABg5g/eYrFoNpu3280xIyIze+6DhBAAcDgcqtVqvV5XSjlaa60kojiOV6sVEaVpGkWRlJKZ9/t9kiRSSrndbpMkybLscrnc7/darSaEeD6f4/G40+kAgBeGoe/7RVHMZrPJZDIcDpn5dDoNBgPf94kIHOTxeHR7PR6P8/n82d1aC8xsjHFHyvPcoSGiw2Hmb1oXLvupFUXxfdt/84X/h+MLWm9RsMBTQVUAAAAASUVORK5CYII=\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> -axis?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126499,
+      "question_number": 16,
+      "uuid": "69eb8b01-ba93-4bc4-93bd-0790ab0211ca",
+      "type": "MCQ",
+      "question": "Which of the following best describes the end behavior of <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q16_option1_1.png",
+          "inline_images": [
+            "images/options/q16_option1_1.png",
+            "images/options/q16_option1_2.png",
+            "images/options/q16_option1_3.png",
+            "images/options/q16_option1_4.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q16_option2_1.png",
+          "inline_images": [
+            "images/options/q16_option2_1.png",
+            "images/options/q16_option2_2.png",
+            "images/options/q16_option2_3.png",
+            "images/options/q16_option2_4.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q16_option3_1.png",
+          "inline_images": [
+            "images/options/q16_option3_1.png",
+            "images/options/q16_option3_2.png",
+            "images/options/q16_option3_3.png",
+            "images/options/q16_option3_4.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q16_option4_1.png",
+          "inline_images": [
+            "images/options/q16_option4_1.png",
+            "images/options/q16_option4_2.png",
+            "images/options/q16_option4_3.png",
+            "images/options/q16_option4_4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126688,
+      "question_number": 2,
+      "uuid": "999149bc-e310-455d-8da8-864280b32c06",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/RQvIDaYUTwJWAoRXNdtf1Njbj5dNAUhxmHouWiSIgI8s7HoTwQ.png"
+      ],
+      "local_question_images": [
+        "images/questions/q2_1.png"
+      ],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126689,
+      "question_number": 3,
+      "uuid": "a04b3502-7cb1-4404-9a72-14d1df8a4587",
+      "type": "MCQ",
+      "question": "Consider the polynomial <img src=\"data:image/png;base64,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dDEiIsJyznrQCpM5u3ZhYWFLlixJSUlBcfnLL78sKyvLyspq3rw5yjNYahcUFEiSdO+999YR0+C8Hnzwwe++++6FF15Az2bNmrVo0ULTtKysrIULF77++uu2bR84cGDmzJlNmjShPV/mZFOycyKONkXJqMh6kcXhQcQHxtjly5e///779PT0vLw8wzCKiori4uKaN2++cOHCW265RXbgDVu2bKlDH9AHO3L9+vXbuXPnM888g5tt2rRp0aLF5cuX165dm5aW9sYbbzDG9u7dO2fOnMaNG0NbIBd4WEomxTgcsrRhzslomqMkSVOmTHG73du3b1ecw9Smad522214Fj2LiopUVcWiRoz59H7Z2WNs0qSJx+O5codz3r9//8TERNu2jx49Svg6AlZalrVz586uXbuWl5fjK5/PBzfj8/ngqA4ePAj8lAg/sW170qRJU6dO5QL6LgSqywUoGr7CX9uBERFehjvAZS40u3b0UMhXlmWF4Heo4f07duzo2rUrEWPbdmVl5XfffafrutfrraysBOipOlTaFjCE4qAjR46sDq4TH6HOxcXFf/vb3959993NmzdzB9wEOnFeacKECcnJyXWjjfC2nTt3xsTEiOBVXdd37doFoFxFRcWhQ4dCyAAWD3dCwHEhMDqSBU0Ka2lRQLYDjzYd+DJN07btl19+uTZ9EBliWdauXbuio6MJCgc1O3DgQFVVlW3bPp/v0KFDIkrTdnDMwWCQUGD017KscePGgZnc2fETNSEEpV0jbWQRL730Ek4YVBeBqD/8aigfKy0t7dChw5tvvkm0cgHjDFbatp2YmLhy5UrugNBEVJ51NXjMsiygiisrKzt37nz48GHOud/vxyMiN0OMAS8JobW6GGzbDgQCUOvqZhPyiHU1tDIEmSrCxk3THDp0aE5ODvErhABRHS0B+SmOxR28qWVZ//nPf8Ar3BeHJgCeqBBgiOng08F5zrnX642Ojj569GgdM6VmWVZ8fPzy5cuh9DAYfBWCUeZXY77hJbFKN6+GRIfAjumFVk1QyRAnQrhHznnd+kDEEO50+PDhK1euJD6IlJArqaioqE4J0SBSvmbNGroW3X11VoSQBGWjBysqKn7zm99AHOLsiEgyGXobrtkbb7wRHR2dnp7+ww8/hOiueL1hw4ahQ4eK1iiykgsOkqadnZ09c+bMENmIgqkeFkJmS/SIYghhhF1LCzGqkIHE0E03N23aFB8fL/YMMZKQqCVqlelg/8ndiCGUeCK6JJE2csP0FWlAZmbmnDlzQrS/eqMHN2zYMGTIkBCuEuZbPCUgciZE78FDke2iUyDOi6OLqlb9wjTNnJwc5PC16YPoqjjnGzdupNOu4rfE8OpqI8Zn8Z2i/6KvQnrSuCJVYpTGBbRaJIlfnY6JnBHvsDFjxowcOXL06NErVqygzE2kkqY3Y8aM9957T9TaGnM5dC4pKfnd7373k/rx62mYS2pqamZmpi0c36hfko4fP56UlBQil9oaqU5ycnJmZma9M//n6oOYanLOTdOcPn36+++/Tx9D3nxDW0ichAhQdkZKIuZK1/LCK0e1xbNx5N6q50iLFi2qqKgQlwFo4pkF+Ib58+dfvnz5+iZZXw2OOT09/eTJk/VNy5WWlpZWVlaGa3HZUL2ZzjkxfMzIyAg563GT28/Vh5Dcj47hLliwoKSkhBKEm+n7iJlYbgWDwb/+9a/nzp3j1ZZw1+LUrmzVc6f0xJ3CK5WzUNgxnV8vwR5FSMWPO3VSKgHjaP3/0K/QYZpEPxWv65EkEIMKOLa57J/6FUoIgs4xXQeE7Zdt164PpH62g/sL+Q1mzrkpHFC4PuzYtTfawiHCaEQRKeq6+veV62hXdiFpemRdBNtjwu/7ipK2hQ1ZdvVvOJu/gh/QvY5Ge+WWA8uq90YII341HLTGVl0n6rH9XH3gAlgE04RxYssOkEXqaV+Nwr1BzXaAjowQVYqCAAXy6Hc1r6VdAROH4EfwCkQw27YBxObOYvHKk7IsIr6wX4QOwJhLwo9R/vqb5UCZJedMKpxofdEDHgKxCZHjlFRt/aGXOOPHnaV8PfL/5+oDyAbDsdGHMyWSJAFnKK76boKZMeGHg3w+HwKy5MCUmYOxEi2i7iaJqSRz9hMJrSc754XY1b/nGuKcOOc4wMMc7yv+Xvz/VhOPFNQ3LYwJ/ziCCYedamyXL19u0KABu7b/VXKjW0g0/kl9oG6EMYKhhgRG5iRTN9rYbOdIEUHSgEHBrj1RBYLrzjXQJMP5jUt2tRWZwg/8U2/xjVxAteAC55QJf8yuzjZ//Q3+iRB99btOE1EOtm3/pOWIICmkW4gA9TiFn6UPoncwavpJC9sB/dycxF4ciMD++EihleKbcQ3//uZKLQQfQmDRaCJajNDcjLEaGVH9qV9JZPjJRpy1hP8n8mugX1x91e25kHrRseL6Ledchz5QQCPirWqnE6k+d6PtTawtiTdZNc2/xgzi/wH/NY2HepKdnQAAAABJRU5ErkJggg==\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> Which of the following best describes the end behavior of <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q3_option1_1.png",
+          "inline_images": [
+            "images/options/q3_option1_1.png",
+            "images/options/q3_option1_2.png",
+            "images/options/q3_option1_3.png",
+            "images/options/q3_option1_4.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q3_option2_1.png",
+          "inline_images": [
+            "images/options/q3_option2_1.png",
+            "images/options/q3_option2_2.png",
+            "images/options/q3_option2_3.png",
+            "images/options/q3_option2_4.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q3_option3_1.png",
+          "inline_images": [
+            "images/options/q3_option3_1.png",
+            "images/options/q3_option3_2.png",
+            "images/options/q3_option3_3.png",
+            "images/options/q3_option3_4.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q3_option4_1.png",
+          "inline_images": [
+            "images/options/q3_option4_1.png",
+            "images/options/q3_option4_2.png",
+            "images/options/q3_option4_3.png",
+            "images/options/q3_option4_4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126690,
+      "question_number": 4,
+      "uuid": "6470fd63-72e3-4d89-a771-cd56148598f4",
+      "type": "MSQ",
+      "question": "Which of the following statements is (are) correct?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "represents a parabola whose vertex is",
+          "image": null,
+          "local_image": "images/options/q4_option1_1.png",
+          "inline_images": [
+            "images/options/q4_option1_1.png",
+            "images/options/q4_option1_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": ", where a=0 and  , then  is a polynomial of degree",
+          "image": null,
+          "local_image": "images/options/q4_option2_1.png",
+          "inline_images": [
+            "images/options/q4_option2_1.png",
+            "images/options/q4_option2_2.png",
+            "images/options/q4_option2_3.png",
+            "images/options/q4_option2_4.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The lines  and  are coincident.",
+          "image": null,
+          "local_image": "images/options/q4_option3_1.png",
+          "inline_images": [
+            "images/options/q4_option3_1.png",
+            "images/options/q4_option3_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The lines  and  are perpendicular to each other.",
+          "image": null,
+          "local_image": "images/options/q4_option4_1.png",
+          "inline_images": [
+            "images/options/q4_option4_1.png",
+            "images/options/q4_option4_2.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126691,
+      "question_number": 5,
+      "uuid": "35a16672-9035-4cab-8bca-1d7514ffc3d7",
+      "type": "MSQ",
+      "question": "",
+      "question_images": [
+        "/question_images/7SLQpyW316PDbG7q5nF9AXR8dhcdck81gFxV0qYXBZHC7QyO96.png"
+      ],
+      "local_question_images": [
+        "images/questions/q5_1.png"
+      ],
+      "options": [
+        {
+          "text": "If  , then both roots of  are equal.",
+          "image": null,
+          "local_image": "images/options/q5_option1_1.png",
+          "inline_images": [
+            "images/options/q5_option1_1.png",
+            "images/options/q5_option1_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "If  , then both roots of  are integers.",
+          "image": null,
+          "local_image": "images/options/q5_option2_1.png",
+          "inline_images": [
+            "images/options/q5_option2_1.png",
+            "images/options/q5_option2_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "There exists a value of  for which  is a root of  .",
+          "image": null,
+          "local_image": "images/options/q5_option3_1.png",
+          "inline_images": [
+            "images/options/q5_option3_1.png",
+            "images/options/q5_option3_2.png",
+            "images/options/q5_option3_3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "If  , then the sum of the roots of  is",
+          "image": null,
+          "local_image": "images/options/q5_option4_1.png",
+          "inline_images": [
+            "images/options/q5_option4_1.png",
+            "images/options/q5_option4_2.png",
+            "images/options/q5_option4_3.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126692,
+      "question_number": 6,
+      "uuid": "541ce7b3-8128-47c1-877a-6d95b199d3f6",
+      "type": "MSQ",
+      "question": "",
+      "question_images": [
+        "/question_images/hZxrvpEAh29gGgU8hmfjLaZDZ2C2RN9mKj6f4nlYIjMKx70o3H.png"
+      ],
+      "local_question_images": [
+        "images/questions/q6_1.png"
+      ],
+      "options": [
+        {
+          "text": "and  are perpendicular.",
+          "image": null,
+          "local_image": "images/options/q6_option1_1.png",
+          "inline_images": [
+            "images/options/q6_option1_1.png",
+            "images/options/q6_option1_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "and  are parallel.",
+          "image": null,
+          "local_image": "images/options/q6_option2_1.png",
+          "inline_images": [
+            "images/options/q6_option2_1.png",
+            "images/options/q6_option2_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "and  are parallel.",
+          "image": null,
+          "local_image": "images/options/q6_option3_1.png",
+          "inline_images": [
+            "images/options/q6_option3_1.png",
+            "images/options/q6_option3_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "and  are perpendicular.",
+          "image": null,
+          "local_image": "images/options/q6_option4_1.png",
+          "inline_images": [
+            "images/options/q6_option4_1.png",
+            "images/options/q6_option4_2.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126693,
+      "question_number": 7,
+      "uuid": "40ffe6d0-b5d7-4d37-9395-1a83406030ab",
+      "type": "MSQ",
+      "question": "",
+      "question_images": [
+        "/question_images/h6IBxSd8gnimz1YSLsPvHm15jg4XMZQlBZbJ5S9ddWNRHf1HYb.png"
+      ],
+      "local_question_images": [
+        "images/questions/q7_1.png"
+      ],
+      "options": [
+        {
+          "text": "represents an injective function.",
+          "image": null,
+          "local_image": "images/options/q7_option1.png",
+          "inline_images": [
+            "images/options/q7_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "represents a function.",
+          "image": null,
+          "local_image": "images/options/q7_option2.png",
+          "inline_images": [
+            "images/options/q7_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "represents a function.",
+          "image": null,
+          "local_image": "images/options/q7_option3.png",
+          "inline_images": [
+            "images/options/q7_option3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "represents a relation but not a function.",
+          "image": null,
+          "local_image": "images/options/q7_option4.png",
+          "inline_images": [
+            "images/options/q7_option4.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126694,
+      "question_number": 8,
+      "uuid": "2b5f0857-d3e1-4686-9257-396b9e8ab31d",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/gNlPEKHJMYgdZPz16bFppz7wDdPltxaT1GFLDKZ6LXn2t3WlsH.png"
+      ],
+      "local_question_images": [
+        "images/questions/q8_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126695,
+      "question_number": 9,
+      "uuid": "606c163d-8397-4a77-b450-7521aa9b2a84",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/sEdmycI0wEQ835WRW4pAZssNeZ6PiJzKKarj9GTMC9Y2Yg2nTT.png"
+      ],
+      "local_question_images": [
+        "images/questions/q9_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126696,
+      "question_number": 10,
+      "uuid": "d15c0a65-7789-4b82-9bc6-ef21ffe91400",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/z420gsoUJSfy41lst2V0O175wo8ASXbQovmbmKS9tBQPQucMgO.png"
+      ],
+      "local_question_images": [
+        "images/questions/q10_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126697,
+      "question_number": 11,
+      "uuid": "8ac1cf2b-8b4f-446a-a8d4-bc83040872b8",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/QtUyEvMWPnxrleQYVCqxUkIz57CpBSri9ukpHABKnXtHQJNvXD.png"
+      ],
+      "local_question_images": [
+        "images/questions/q11_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126698,
+      "question_number": 12,
+      "uuid": "fca2a932-98c3-473b-b807-7556ab1ac689",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/nE2RTpPJ5GHVm7mDTOqSFsyMqWxVS2yJHcmUKpi1AJ6x3gQiav.png"
+      ],
+      "local_question_images": [
+        "images/questions/q12_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126699,
+      "question_number": 13,
+      "uuid": "dcfee3f1-5882-4485-a7f4-d0ee007f0ebd",
+      "type": "MCQ",
+      "question": "",
+      "question_images": [
+        "/question_images/z7n2W8ljgeT61LEsjCb3p29fJnQBOsbQPq26pTQmzQuet5VPGn.png"
+      ],
+      "local_question_images": [
+        "images/questions/q13_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option1.png",
+          "inline_images": [
+            "images/options/q13_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option2.png",
+          "inline_images": [
+            "images/options/q13_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option3.png",
+          "inline_images": [
+            "images/options/q13_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option4.png",
+          "inline_images": [
+            "images/options/q13_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126700,
+      "question_number": 14,
+      "uuid": "628108a4-cbab-4ce5-8868-8fee1e885b6a",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/TVZ6KzCApQhPhZCvWLf9iPIkzxF1MlcpyjLsm9k6ABuhH5nbOo.png"
+      ],
+      "local_question_images": [
+        "images/questions/q14_1.png"
+      ],
+      "options": [],
+      "total_mark": "5.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126722,
+      "question_number": 2,
+      "uuid": "23d56358-7bed-4f86-8077-96cfed876be1",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/hFDAUuDk069LWnNzQoBKnx7vHjPbecYfPhB3Ya5vx8VrjcXbPE.png"
+      ],
+      "local_question_images": [
+        "images/questions/q2_1.png"
+      ],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126723,
+      "question_number": 3,
+      "uuid": "b30a272f-e32a-41df-84bf-c1d905acaa33",
+      "type": "MCQ",
+      "question": "Consider the polynomial <img src=\"data:image/png;base64,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dDEiIsJyznrQCpM5u3ZhYWFLlixJSUlBcfnLL78sKyvLyspq3rw5yjNYahcUFEiSdO+999YR0+C8Hnzwwe++++6FF15Az2bNmrVo0ULTtKysrIULF77++uu2bR84cGDmzJlNmjShPV/mZFOycyKONkXJqMh6kcXhQcQHxtjly5e///779PT0vLw8wzCKiori4uKaN2++cOHCW265RXbgDVu2bKlDH9AHO3L9+vXbuXPnM888g5tt2rRp0aLF5cuX165dm5aW9sYbbzDG9u7dO2fOnMaNG0NbIBd4WEomxTgcsrRhzslomqMkSVOmTHG73du3b1ecw9Smad522214Fj2LiopUVcWiRoz59H7Z2WNs0qSJx+O5codz3r9//8TERNu2jx49Svg6AlZalrVz586uXbuWl5fjK5/PBzfj8/ngqA4ePAj8lAg/sW170qRJU6dO5QL6LgSqywUoGr7CX9uBERFehjvAZS40u3b0UMhXlmWF4Heo4f07duzo2rUrEWPbdmVl5XfffafrutfrraysBOipOlTaFjCE4qAjR46sDq4TH6HOxcXFf/vb3959993NmzdzB9wEOnFeacKECcnJyXWjjfC2nTt3xsTEiOBVXdd37doFoFxFRcWhQ4dCyAAWD3dCwHEhMDqSBU0Ka2lRQLYDjzYd+DJN07btl19+uTZ9EBliWdauXbuio6MJCgc1O3DgQFVVlW3bPp/v0KFDIkrTdnDMwWCQUGD017KscePGgZnc2fETNSEEpV0jbWQRL730Ek4YVBeBqD/8aigfKy0t7dChw5tvvkm0cgHjDFbatp2YmLhy5UrugNBEVJ51NXjMsiygiisrKzt37nz48GHOud/vxyMiN0OMAS8JobW6GGzbDgQCUOvqZhPyiHU1tDIEmSrCxk3THDp0aE5ODvErhABRHS0B+SmOxR28qWVZ//nPf8Ar3BeHJgCeqBBgiOng08F5zrnX642Ojj569GgdM6VmWVZ8fPzy5cuh9DAYfBWCUeZXY77hJbFKN6+GRIfAjumFVk1QyRAnQrhHznnd+kDEEO50+PDhK1euJD6IlJArqaioqE4J0SBSvmbNGroW3X11VoSQBGWjBysqKn7zm99AHOLsiEgyGXobrtkbb7wRHR2dnp7+ww8/hOiueL1hw4ahQ4eK1iiykgsOkqadnZ09c+bMENmIgqkeFkJmS/SIYghhhF1LCzGqkIHE0E03N23aFB8fL/YMMZKQqCVqlelg/8ndiCGUeCK6JJE2csP0FWlAZmbmnDlzQrS/eqMHN2zYMGTIkBCuEuZbPCUgciZE78FDke2iUyDOi6OLqlb9wjTNnJwc5PC16YPoqjjnGzdupNOu4rfE8OpqI8Zn8Z2i/6KvQnrSuCJVYpTGBbRaJIlfnY6JnBHvsDFjxowcOXL06NErVqygzE2kkqY3Y8aM9957T9TaGnM5dC4pKfnd7373k/rx62mYS2pqamZmpi0c36hfko4fP56UlBQil9oaqU5ycnJmZma9M//n6oOYanLOTdOcPn36+++/Tx9D3nxDW0ichAhQdkZKIuZK1/LCK0e1xbNx5N6q50iLFi2qqKgQlwFo4pkF+Ib58+dfvnz5+iZZXw2OOT09/eTJk/VNy5WWlpZWVlaGa3HZUL2ZzjkxfMzIyAg563GT28/Vh5Dcj47hLliwoKSkhBKEm+n7iJlYbgWDwb/+9a/nzp3j1ZZw1+LUrmzVc6f0xJ3CK5WzUNgxnV8vwR5FSMWPO3VSKgHjaP3/0K/QYZpEPxWv65EkEIMKOLa57J/6FUoIgs4xXQeE7Zdt164PpH62g/sL+Q1mzrkpHFC4PuzYtTfawiHCaEQRKeq6+veV62hXdiFpemRdBNtjwu/7ipK2hQ1ZdvVvOJu/gh/QvY5Ge+WWA8uq90YII341HLTGVl0n6rH9XH3gAlgE04RxYssOkEXqaV+Nwr1BzXaAjowQVYqCAAXy6Hc1r6VdAROH4EfwCkQw27YBxObOYvHKk7IsIr6wX4QOwJhLwo9R/vqb5UCZJedMKpxofdEDHgKxCZHjlFRt/aGXOOPHnaV8PfL/5+oDyAbDsdGHMyWSJAFnKK76boKZMeGHg3w+HwKy5MCUmYOxEi2i7iaJqSRz9hMJrSc754XY1b/nGuKcOOc4wMMc7yv+Xvz/VhOPFNQ3LYwJ/ziCCYedamyXL19u0KABu7b/VXKjW0g0/kl9oG6EMYKhhgRG5iRTN9rYbOdIEUHSgEHBrj1RBYLrzjXQJMP5jUt2tRWZwg/8U2/xjVxAteAC55QJf8yuzjZ//Q3+iRB99btOE1EOtm3/pOWIICmkW4gA9TiFn6UPoncwavpJC9sB/dycxF4ciMD++EihleKbcQ3//uZKLQQfQmDRaCJajNDcjLEaGVH9qV9JZPjJRpy1hP8n8mugX1x91e25kHrRseL6Ledchz5QQCPirWqnE6k+d6PtTawtiTdZNc2/xgzi/wH/NY2HepKdnQAAAABJRU5ErkJggg==\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> Which of the following best describes the end behavior of <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q3_option1_1.png",
+          "inline_images": [
+            "images/options/q3_option1_1.png",
+            "images/options/q3_option1_2.png",
+            "images/options/q3_option1_3.png",
+            "images/options/q3_option1_4.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q3_option2_1.png",
+          "inline_images": [
+            "images/options/q3_option2_1.png",
+            "images/options/q3_option2_2.png",
+            "images/options/q3_option2_3.png",
+            "images/options/q3_option2_4.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q3_option3_1.png",
+          "inline_images": [
+            "images/options/q3_option3_1.png",
+            "images/options/q3_option3_2.png",
+            "images/options/q3_option3_3.png",
+            "images/options/q3_option3_4.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "as  and  as",
+          "image": null,
+          "local_image": "images/options/q3_option4_1.png",
+          "inline_images": [
+            "images/options/q3_option4_1.png",
+            "images/options/q3_option4_2.png",
+            "images/options/q3_option4_3.png",
+            "images/options/q3_option4_4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126724,
+      "question_number": 4,
+      "uuid": "4cb5bb4a-f777-4b45-afff-0bd667aab92f",
+      "type": "MSQ",
+      "question": "Which of the following statements is (are) correct?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "represents a parabola whose vertex is",
+          "image": null,
+          "local_image": "images/options/q4_option1_1.png",
+          "inline_images": [
+            "images/options/q4_option1_1.png",
+            "images/options/q4_option1_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": ", where a=0 and  , then  is a polynomial of degree",
+          "image": null,
+          "local_image": "images/options/q4_option2_1.png",
+          "inline_images": [
+            "images/options/q4_option2_1.png",
+            "images/options/q4_option2_2.png",
+            "images/options/q4_option2_3.png",
+            "images/options/q4_option2_4.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The lines  and  are coincident.",
+          "image": null,
+          "local_image": "images/options/q4_option3_1.png",
+          "inline_images": [
+            "images/options/q4_option3_1.png",
+            "images/options/q4_option3_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The lines  and  are perpendicular to each other.",
+          "image": null,
+          "local_image": "images/options/q4_option4_1.png",
+          "inline_images": [
+            "images/options/q4_option4_1.png",
+            "images/options/q4_option4_2.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126725,
+      "question_number": 5,
+      "uuid": "be1cd3d4-57a8-4486-9cd7-8649f5013674",
+      "type": "MSQ",
+      "question": "",
+      "question_images": [
+        "/question_images/qgMstivqnF6gOXgisKKsfxQ8irNJEwQTJpD6SuQvUI6dT4RlRT.png"
+      ],
+      "local_question_images": [
+        "images/questions/q5_1.png"
+      ],
+      "options": [
+        {
+          "text": "If  , then both roots of  are equal.",
+          "image": null,
+          "local_image": "images/options/q5_option1_1.png",
+          "inline_images": [
+            "images/options/q5_option1_1.png",
+            "images/options/q5_option1_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "If  , then both roots of  are integers.",
+          "image": null,
+          "local_image": "images/options/q5_option2_1.png",
+          "inline_images": [
+            "images/options/q5_option2_1.png",
+            "images/options/q5_option2_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "There exists a value of  for which  is a root of  .",
+          "image": null,
+          "local_image": "images/options/q5_option3_1.png",
+          "inline_images": [
+            "images/options/q5_option3_1.png",
+            "images/options/q5_option3_2.png",
+            "images/options/q5_option3_3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "If  , then the sum of the roots of  is",
+          "image": null,
+          "local_image": "images/options/q5_option4_1.png",
+          "inline_images": [
+            "images/options/q5_option4_1.png",
+            "images/options/q5_option4_2.png",
+            "images/options/q5_option4_3.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126726,
+      "question_number": 6,
+      "uuid": "533e8ada-809c-4c10-bab7-04ae3c102fda",
+      "type": "MSQ",
+      "question": "",
+      "question_images": [
+        "/question_images/VHV69jycLJqzrb2Ro9dPkHXeywE0B00bwL33zKUHBf2LVtC8Bi.png"
+      ],
+      "local_question_images": [
+        "images/questions/q6_1.png"
+      ],
+      "options": [
+        {
+          "text": "and  are perpendicular.",
+          "image": null,
+          "local_image": "images/options/q6_option1_1.png",
+          "inline_images": [
+            "images/options/q6_option1_1.png",
+            "images/options/q6_option1_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "and  are parallel.",
+          "image": null,
+          "local_image": "images/options/q6_option2_1.png",
+          "inline_images": [
+            "images/options/q6_option2_1.png",
+            "images/options/q6_option2_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "and  are parallel.",
+          "image": null,
+          "local_image": "images/options/q6_option3_1.png",
+          "inline_images": [
+            "images/options/q6_option3_1.png",
+            "images/options/q6_option3_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "and  are perpendicular.",
+          "image": null,
+          "local_image": "images/options/q6_option4_1.png",
+          "inline_images": [
+            "images/options/q6_option4_1.png",
+            "images/options/q6_option4_2.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126727,
+      "question_number": 7,
+      "uuid": "ce75217a-35cb-4ea5-bcd7-50c5a08bc2cd",
+      "type": "MSQ",
+      "question": "",
+      "question_images": [
+        "/question_images/k1Ira9YPoFBmly00Kqp2zHrMKEtTUxDXO3W3ASv9f5wd4p5TRQ.png"
+      ],
+      "local_question_images": [
+        "images/questions/q7_1.png"
+      ],
+      "options": [
+        {
+          "text": "represents an injective function.",
+          "image": null,
+          "local_image": "images/options/q7_option1.png",
+          "inline_images": [
+            "images/options/q7_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "represents a function.",
+          "image": null,
+          "local_image": "images/options/q7_option2.png",
+          "inline_images": [
+            "images/options/q7_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "represents a function.",
+          "image": null,
+          "local_image": "images/options/q7_option3.png",
+          "inline_images": [
+            "images/options/q7_option3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "represents a relation but not a function.",
+          "image": null,
+          "local_image": "images/options/q7_option4.png",
+          "inline_images": [
+            "images/options/q7_option4.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126728,
+      "question_number": 8,
+      "uuid": "bbd9ca5a-aa3b-4f95-af0e-8863fba97914",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/XCbzD5W92AFZtf6OhI01nhzannTR4U6faAcpvBOgOrlfXNG2iQ.png"
+      ],
+      "local_question_images": [
+        "images/questions/q8_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126729,
+      "question_number": 9,
+      "uuid": "b48f5f5d-7517-4154-8f4b-75221e927cf5",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/YzP34X6GUD6XfQE8fvfTHe64Gz2mVbiEXBujADyhe7KilXRfPN.png"
+      ],
+      "local_question_images": [
+        "images/questions/q9_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126730,
+      "question_number": 10,
+      "uuid": "094a9db8-77b0-4159-8a50-e2dc29611d35",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/UHMM5vMeEHxA3g44bEWbkqVtYgXR3ZxLM2YETHasqn7ZGyw4bo.png"
+      ],
+      "local_question_images": [
+        "images/questions/q10_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126731,
+      "question_number": 11,
+      "uuid": "2f7eb8cc-0bd8-4028-9f68-a6063c078756",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/AkmfaAh3CFcttuHkAK0Pmh8yJDfdUanyOay3AI5hAdkDtNbPZz.png"
+      ],
+      "local_question_images": [
+        "images/questions/q11_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126732,
+      "question_number": 12,
+      "uuid": "11b0487e-ce3b-427b-a492-1f43f4c51882",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/JopByVvSoCIH77UEsh7M7GiG7N2yhKRoekHF4N1u1zajcj0Efp.png"
+      ],
+      "local_question_images": [
+        "images/questions/q12_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126733,
+      "question_number": 13,
+      "uuid": "f0544e52-d69c-476c-90db-116fb1caace9",
+      "type": "MCQ",
+      "question": "",
+      "question_images": [
+        "/question_images/i0bf0YXsKQTB8kJLbJcDH2wxuKaXVhJezd7sp8SntiYoe1hvn4.png"
+      ],
+      "local_question_images": [
+        "images/questions/q13_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option1.png",
+          "inline_images": [
+            "images/options/q13_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option2.png",
+          "inline_images": [
+            "images/options/q13_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option3.png",
+          "inline_images": [
+            "images/options/q13_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option4.png",
+          "inline_images": [
+            "images/options/q13_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126734,
+      "question_number": 14,
+      "uuid": "6603b8e5-446c-4b14-b9ef-664fdb15237b",
+      "type": "SA",
+      "question": "",
+      "question_images": [
+        "/question_images/Ztn1egM60EGz76O68dFjtf4k0peijquJB2RiuAWLOJd9iSh5cm.png"
+      ],
+      "local_question_images": [
+        "images/questions/q14_1.png"
+      ],
+      "options": [],
+      "total_mark": "5.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    }
+  ]
+}

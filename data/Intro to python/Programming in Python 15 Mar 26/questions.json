@@ -1,0 +1,1323 @@
+{
+  "paper": {
+    "id": 484,
+    "name": "Programming in Python 15 Mar 26",
+    "description": "Programming in Python 15 Mar 26",
+    "uuid": "6c19e90c-aac",
+    "year": 2026,
+    "source": "pyq",
+    "exam": "Quiz 1",
+    "course": null,
+    "subject": "Intro to Python",
+    "source_url": "https://quizpractice.space/question-paper/practise/2/6c19e90c-aac",
+    "scraped_at": "2026-10-04T09:30:18.459893+00:00"
+  },
+  "questions": [
+    {
+      "question_id": 125413,
+      "question_number": 2,
+      "uuid": "55a1c9c5-38c4-4b8c-9e7f-a233aa9ed666",
+      "type": "MCQ",
+      "question": "Consider the following code:\nWhat will be the output?",
+      "question_images": [
+        "/question_images/n5Ewa298jN3W8dDxGL4NBNBW9OPtA9waAhSSeHQjgcBu2SFUeh.png"
+      ],
+      "local_question_images": [
+        "images/questions/q2_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q2_option1.png",
+          "inline_images": [
+            "images/options/q2_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q2_option2.png",
+          "inline_images": [
+            "images/options/q2_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q2_option3.png",
+          "inline_images": [
+            "images/options/q2_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q2_option4.png",
+          "inline_images": [
+            "images/options/q2_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125414,
+      "question_number": 3,
+      "uuid": "94cddedd-34e3-4123-9611-944fd8633360",
+      "type": "MCQ",
+      "question": "Consider the following code:\nWhat will be the output?",
+      "question_images": [
+        "/question_images/khk0ZUuIakY8UOAAPtw3x1ltDJQ27rcgzvorJbaoA6M6THVAFK.png"
+      ],
+      "local_question_images": [
+        "images/questions/q3_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q3_option1.png",
+          "inline_images": [
+            "images/options/q3_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q3_option2.png",
+          "inline_images": [
+            "images/options/q3_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q3_option3.png",
+          "inline_images": [
+            "images/options/q3_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q3_option4.png",
+          "inline_images": [
+            "images/options/q3_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125415,
+      "question_number": 4,
+      "uuid": "4689546e-e392-49f3-a26a-c5bd10ffcf44",
+      "type": "MCQ",
+      "question": "Consider the following Python code:\nWhat will be the output?",
+      "question_images": [
+        "/question_images/xR4WXUXzUQkCoz0bsE6pxrFxCnjhrT4Su53yuHcOSU1xaVYged.png"
+      ],
+      "local_question_images": [
+        "images/questions/q4_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q4_option1.png",
+          "inline_images": [
+            "images/options/q4_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q4_option2.png",
+          "inline_images": [
+            "images/options/q4_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q4_option3.png",
+          "inline_images": [
+            "images/options/q4_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q4_option4.png",
+          "inline_images": [
+            "images/options/q4_option4.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125416,
+      "question_number": 5,
+      "uuid": "d769bd9e-8a31-4bee-8523-652155fc4fc4",
+      "type": "MCQ",
+      "question": "Consider the following code:\nWhat will be the output?",
+      "question_images": [
+        "/question_images/wIXS3MRkYTnvBELaQs49gVpeTqPaEkhw1YWMAYj6XyR0WqGQHh.png"
+      ],
+      "local_question_images": [
+        "images/questions/q5_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q5_option1.png",
+          "inline_images": [
+            "images/options/q5_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q5_option2.png",
+          "inline_images": [
+            "images/options/q5_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q5_option3.png",
+          "inline_images": [
+            "images/options/q5_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q5_option4.png",
+          "inline_images": [
+            "images/options/q5_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125417,
+      "question_number": 6,
+      "uuid": "e946db46-8df9-4f9d-a7ed-15031108bde2",
+      "type": "MSQ",
+      "question": "Consider the following Python code:\nWhich of the following statements are true?",
+      "question_images": [
+        "/question_images/nymp6niozX4Yz8zuT0UwNv0koXHVWhjhwgr1Slb5YHhmyUCLUT.png"
+      ],
+      "local_question_images": [
+        "images/questions/q6_1.png"
+      ],
+      "options": [
+        {
+          "text": "The final value of  is",
+          "image": null,
+          "local_image": "images/options/q6_option1_1.png",
+          "inline_images": [
+            "images/options/q6_option1_1.png",
+            "images/options/q6_option1_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The character  increases  by",
+          "image": null,
+          "local_image": "images/options/q6_option2_1.png",
+          "inline_images": [
+            "images/options/q6_option2_1.png",
+            "images/options/q6_option2_2.png",
+            "images/options/q6_option2_3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The letter  increases the value of  by  and the character  increases  by",
+          "image": null,
+          "local_image": "images/options/q6_option3_1.png",
+          "inline_images": [
+            "images/options/q6_option3_1.png",
+            "images/options/q6_option3_2.png",
+            "images/options/q6_option3_3.png",
+            "images/options/q6_option3_4.png",
+            "images/options/q6_option3_5.png",
+            "images/options/q6_option3_6.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "The letter  increases the value of  by  and the character  increases  by",
+          "image": null,
+          "local_image": "images/options/q6_option4_1.png",
+          "inline_images": [
+            "images/options/q6_option4_1.png",
+            "images/options/q6_option4_2.png",
+            "images/options/q6_option4_3.png",
+            "images/options/q6_option4_4.png",
+            "images/options/q6_option4_5.png",
+            "images/options/q6_option4_6.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125418,
+      "question_number": 7,
+      "uuid": "2511121f-a28b-44c1-8f03-6f67787e8d29",
+      "type": "MSQ",
+      "question": "Consider the following Python code:\nWhich of the following statements are true?",
+      "question_images": [
+        "/question_images/OjvYzDtfl5GCeM6i5Knj6y8JjwPIHN26ukkZGFHLe8YjpTBZUo.png"
+      ],
+      "local_question_images": [
+        "images/questions/q7_1.png"
+      ],
+      "options": [
+        {
+          "text": "The output of the first  statement is",
+          "image": null,
+          "local_image": "images/options/q7_option1_1.png",
+          "inline_images": [
+            "images/options/q7_option1_1.png",
+            "images/options/q7_option1_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The output of the second  statement is",
+          "image": null,
+          "local_image": "images/options/q7_option2_1.png",
+          "inline_images": [
+            "images/options/q7_option2_1.png",
+            "images/options/q7_option2_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "The default value of  is used in the second function call",
+          "image": null,
+          "local_image": "images/options/q7_option3.png",
+          "inline_images": [
+            "images/options/q7_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "The function  returns two values as a tuple",
+          "image": null,
+          "local_image": "images/options/q7_option4.png",
+          "inline_images": [
+            "images/options/q7_option4.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The output of the second  statement is",
+          "image": null,
+          "local_image": "images/options/q7_option5_1.png",
+          "inline_images": [
+            "images/options/q7_option5_1.png",
+            "images/options/q7_option5_2.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125419,
+      "question_number": 8,
+      "uuid": "d3dc01c4-415c-4e76-a2c2-5ab8aa279b4e",
+      "type": "SA",
+      "question": "What is the output of the following snippet of code?",
+      "question_images": [
+        "/question_images/LMHtIf6sVbQODGLmmz0XoU7roOBvcOb3BOrHizvrgkiD0T5XyK.png"
+      ],
+      "local_question_images": [
+        "images/questions/q8_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 125420,
+      "question_number": 9,
+      "uuid": "dde8d649-ce65-4cff-9b3f-da4485c5846a",
+      "type": "SA",
+      "question": "Consider the following snippet of code. What will the output be?",
+      "question_images": [
+        "/question_images/zEqljEufnIC7CdfFn4FkSyGEoNUoEbqQ4mlywe9VGoFxqoqZy4.png"
+      ],
+      "local_question_images": [
+        "images/questions/q9_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 125421,
+      "question_number": 10,
+      "uuid": "5992f211-d45b-410f-8f0b-2ca8afb3c08a",
+      "type": "SA",
+      "question": "What is the output of the following snippet of code? Note: <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> :checks whether an object belongs to a given type or any of its subclasses.",
+      "question_images": [
+        "/question_images/MBohqy3iFVtFlcu4w1MWnSgnb604bfMHxkAnxsDbV8wS6wrpra.png"
+      ],
+      "local_question_images": [
+        "images/questions/q10_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 125422,
+      "question_number": 11,
+      "uuid": "1c5ea94e-4cbf-4e04-b616-4063fca2a9e1",
+      "type": "SA",
+      "question": "What is the output of the following snippet of code?",
+      "question_images": [
+        "/question_images/earyqiZGshC5oMsPqdVbDSgjFNJ22LPv5hqBGMh4h2gWIVY0Lz.png"
+      ],
+      "local_question_images": [
+        "images/questions/q11_1.png"
+      ],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 125423,
+      "question_number": 11,
+      "uuid": "f6b1e1e9-728f-4bf1-ba87-c899b01daf4b",
+      "type": "COMPREHENSION",
+      "question": "Consider the following snippet of code and answer the sub-questions:",
+      "question_images": [
+        "/question_images/SRTc5DA5fkaVLUu6FFQct1ris6c3NDyPJ4FdJvH7UnfjKkjX4m.png"
+      ],
+      "local_question_images": [
+        "images/questions/q11_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125424,
+      "question_number": 12,
+      "uuid": "4926ccc9-088c-4c4d-8483-c8fbab87ab1f",
+      "type": "MCQ",
+      "question": "What is the value of <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAcCAIAAAC2x5suAAADAklEQVR4nO2YXU8TQRSGz8x+tqVSQi0UCnVt/IiJRkQNIqEKGoVovNHERGK8Jsb/of+AK69MTCREY4QUo4ggsZgYwRAEtJRS+gUV2m5Lu213vdgG24qCtKTZhDd7Mbsz85x3Z05mZhdJkgTKFC61gZ1LwdZJMZVKJwRJVFLaIIwIhkYCH1WWb1kII6xE3wAgiZKCc71o1pe/znx7+rJYtO0wi2add/uKhdomEyXCfE5rj985OBpdDpIMra2rsXReIBgaAH7OOGb7bA3dXUy5Vm5pf9Rjajld29woiaL9YU8et/HBPUqjAgBH/zveF+CutM712YTYurqyguuwamurC2HKIrPr4sHVqScvqhuPH7nVGV8LOW0jM70Dx+7c+PfYIISP3r6+OPwRAOqsTRkuS8sFTBKp6Lp7ePxg50XA2Ds+Mds7cOr+XUQQO2ZmyNk37g+f1foKc9s5SqPS1lZzHdawyxNZ2ioTEOg4E8UyFMvoOJN8bTiTAAQ+Zm4/r7PU6zhTvfVsMhYPzbsLYW5inff45KmUVWY0IAJHXN4twmwlgqHVVZVyWVO1HzCKBlYKZEKedSESwxSVE5WmExEeChPJZE00AkySYjJVIBPyrBM0lU4ms5+kBYFk2U17bn8vE9PprG4gplKYIjdt+V/7Y451jdEQcf9OD94TkNKitsYAAIggAUAUMi8WD65C3mkZob8FTkbXE6GIXI76l0GUNAZ9gcx868YzJ2L+4MKbMYGPhRe9jv4hlb5CZ6kHgLIaPcLYPzEtB3PY3mM6J7WY8n0Rjz84/WNt3r0yNRd2LW1UEQzteDUUCwTTQnJx2E6p2XLOVCAT8hbHcs7EXW312r94xycAIx1Xf+BSMyAEAJRabbnW5no75vs0yer2mdubna9HIWtEjE0nQ0733PNBACBZxny5ZaOKUrG6Q9zk42cgSnSZ+vDNDnmtKIQJf25JRdf84Mja94WG7q6ik/eOX6XQrifM7knBo44RRqX2sBMhjDDB0Ipzn/ms3vuFVAIp2PovsX1lLe0Q2DoAAAAASUVORK5CYII=\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> after executing the given code?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q12_option1.png",
+          "inline_images": [
+            "images/options/q12_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q12_option2.png",
+          "inline_images": [
+            "images/options/q12_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q12_option3.png",
+          "inline_images": [
+            "images/options/q12_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q12_option4.png",
+          "inline_images": [
+            "images/options/q12_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125425,
+      "question_number": 13,
+      "uuid": "09db7ef0-44ba-49d5-b28b-1df163ab0d1c",
+      "type": "MCQ",
+      "question": "In the given code, if we change the condition to <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> instead of <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> , what will be the value of <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAcCAIAAAC2x5suAAADAklEQVR4nO2YXU8TQRSGz8x+tqVSQi0UCnVt/IiJRkQNIqEKGoVovNHERGK8Jsb/of+AK69MTCREY4QUo4ggsZgYwRAEtJRS+gUV2m5Lu213vdgG24qCtKTZhDd7Mbsz85x3Z05mZhdJkgTKFC61gZ1LwdZJMZVKJwRJVFLaIIwIhkYCH1WWb1kII6xE3wAgiZKCc71o1pe/znx7+rJYtO0wi2add/uKhdomEyXCfE5rj985OBpdDpIMra2rsXReIBgaAH7OOGb7bA3dXUy5Vm5pf9Rjajld29woiaL9YU8et/HBPUqjAgBH/zveF+CutM712YTYurqyguuwamurC2HKIrPr4sHVqScvqhuPH7nVGV8LOW0jM70Dx+7c+PfYIISP3r6+OPwRAOqsTRkuS8sFTBKp6Lp7ePxg50XA2Ds+Mds7cOr+XUQQO2ZmyNk37g+f1foKc9s5SqPS1lZzHdawyxNZ2ioTEOg4E8UyFMvoOJN8bTiTAAQ+Zm4/r7PU6zhTvfVsMhYPzbsLYW5inff45KmUVWY0IAJHXN4twmwlgqHVVZVyWVO1HzCKBlYKZEKedSESwxSVE5WmExEeChPJZE00AkySYjJVIBPyrBM0lU4ms5+kBYFk2U17bn8vE9PprG4gplKYIjdt+V/7Y451jdEQcf9OD94TkNKitsYAAIggAUAUMi8WD65C3mkZob8FTkbXE6GIXI76l0GUNAZ9gcx868YzJ2L+4MKbMYGPhRe9jv4hlb5CZ6kHgLIaPcLYPzEtB3PY3mM6J7WY8n0Rjz84/WNt3r0yNRd2LW1UEQzteDUUCwTTQnJx2E6p2XLOVCAT8hbHcs7EXW312r94xycAIx1Xf+BSMyAEAJRabbnW5no75vs0yer2mdubna9HIWtEjE0nQ0733PNBACBZxny5ZaOKUrG6Q9zk42cgSnSZ+vDNDnmtKIQJf25JRdf84Mja94WG7q6ik/eOX6XQrifM7knBo44RRqX2sBMhjDDB0Ipzn/ms3vuFVAIp2PovsX1lLe0Q2DoAAAAASUVORK5CYII=\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option1.png",
+          "inline_images": [
+            "images/options/q13_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option2.png",
+          "inline_images": [
+            "images/options/q13_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option3.png",
+          "inline_images": [
+            "images/options/q13_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option4.png",
+          "inline_images": [
+            "images/options/q13_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125426,
+      "question_number": 14,
+      "uuid": "4ae0fdb6-788f-4e99-98f8-83d3b1e83af7",
+      "type": "COMPREHENSION",
+      "question": "Consider the following snippet of code and answer the sub-questions:",
+      "question_images": [
+        "/question_images/FDHt6qVwTF4Mdts1rrDmporZ2kxzuW3lcTvXzwi475I9fPBK2m.png"
+      ],
+      "local_question_images": [
+        "images/questions/q14_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125427,
+      "question_number": 14,
+      "uuid": "63934e2d-b75a-4c32-aba6-b75df140393c",
+      "type": "MCQ",
+      "question": "What are the values of <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAIAAADnU6hNAAABEklEQVR4nGP8//8/AymAiSTV5Ghg+ffnz9+fv/7/I+AwRiZGZnY2JhYWJmJUMzAw/P/3/+/PXwwMDEzEqIbrYSDHD8ica0s2fnr8DMJm5eLgFBaUsjQSUJbDqYGBgYFDWFDB1Ybh//9vr968vX735trt2jGBPFJicAXoTmJhZxNQlBFQkpWyMNSO8WdiYXlx9jKyAnx+YGJl5RDk//XpC7EaGP7///nxMxsvNz4/wMHPT18e7Dr85/sPES0VZHHGn0g2IocSxEkqvk5C6kpwETZebhyhxMDAwMDAIynKwsGOpgBdAySUcLmTgR7JG8XTBAEbLzftnUQHDYxMjEQqhahkYmZnI0YPpBBgYGBgHHwFGQD981Vkto0mWgAAAABJRU5ErkJggg==\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> and <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAIAAADnU6hNAAABpUlEQVR4nM2UzUsCQRTA38zOzprfCYUaEYiUEihFCV7rElSH6NKpfy/oUhFeCiEoOkQXD6V9GSxmXyZ+bbXbzk4HwTQGPzr1bm/e78d7D4aHOOcwSOCB6L8IxDJNphvc6jEYwkhSKCYE90MDALc40w0AwP3QLQf+ssOvvHyVL5ycf5QrRKGu8UB4ZRHLHUxHB+25dLN7SBQaXl4IJOLV+8L1zkG3Dmr6VLbbohuriEgAoLhdN3uHjeKLMzgq6MCMr6r64JsKNWkA8EVCmMqli2vxSHqlBhyoy9F6QRjLdvtnpS4WLMYAAFPaMbGNmtq7WJAIAQDL+GovM12XqCwWFK8bEDIa2k9P09RrmjLsEQtYJk7/SPkqzxlrvlTzKmfMMzEmFgAgmJwx6lp2a//t8vbxLHObOrJ53b5IqJ1Beq3Rnr9ksq+ZXL34BBz887Gx5KzsGGpVqcvx+y+NxqPTm2v+uRiScCARb6cFI7UikIgjhO/205U7taYWewuK2zm5vmRoH7nt1P3Bcbcduodgh56BEUZ9ok0SSwrtx2keAQBA/++QfQMVNZ+GuCOovwAAAABJRU5ErkJggg==\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> after executing the given code?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q14_option1.png",
+          "inline_images": [
+            "images/options/q14_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q14_option2.png",
+          "inline_images": [
+            "images/options/q14_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q14_option3.png",
+          "inline_images": [
+            "images/options/q14_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q14_option4.png",
+          "inline_images": [
+            "images/options/q14_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 125428,
+      "question_number": 15,
+      "uuid": "c2378caa-9568-41e0-a5ea-6a22ae0cbf4d",
+      "type": "MSQ",
+      "question": "Which of the following statements are true?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Both  and  are substrings of",
+          "image": null,
+          "local_image": "images/options/q15_option1_1.png",
+          "inline_images": [
+            "images/options/q15_option1_1.png",
+            "images/options/q15_option1_2.png",
+            "images/options/q15_option1_3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The expression  evaluates to",
+          "image": null,
+          "local_image": "images/options/q15_option2_1.png",
+          "inline_images": [
+            "images/options/q15_option2_1.png",
+            "images/options/q15_option2_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "The comparison ignores uppercase and lowercase letters",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The expression  evaluates to",
+          "image": null,
+          "local_image": "images/options/q15_option4_1.png",
+          "inline_images": [
+            "images/options/q15_option4_1.png",
+            "images/options/q15_option4_2.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126672,
+      "question_number": 2,
+      "uuid": "4ac83377-f797-48ae-bda9-8bc18632ca19",
+      "type": "MCQ",
+      "question": "Consider the following code:\nWhat will be the output?",
+      "question_images": [
+        "/question_images/kluf3vQv4LRsfSjYMSBwKrGy5Pw3se3zGFbWh4hVQcWKUiipte.png"
+      ],
+      "local_question_images": [
+        "images/questions/q2_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q2_option1.png",
+          "inline_images": [
+            "images/options/q2_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q2_option2.png",
+          "inline_images": [
+            "images/options/q2_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q2_option3.png",
+          "inline_images": [
+            "images/options/q2_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q2_option4.png",
+          "inline_images": [
+            "images/options/q2_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126673,
+      "question_number": 3,
+      "uuid": "84c6ba5a-a6df-46a9-a00f-513ce8a9fbd0",
+      "type": "MCQ",
+      "question": "Consider the following code:\nWhat will be the output?",
+      "question_images": [
+        "/question_images/085MNpoHIlFalB3gXWtYFWyXzVOT7rTzAQRq2rI8DLMdcXZgGq.png"
+      ],
+      "local_question_images": [
+        "images/questions/q3_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q3_option1.png",
+          "inline_images": [
+            "images/options/q3_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q3_option2.png",
+          "inline_images": [
+            "images/options/q3_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q3_option3.png",
+          "inline_images": [
+            "images/options/q3_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q3_option4.png",
+          "inline_images": [
+            "images/options/q3_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126674,
+      "question_number": 4,
+      "uuid": "db8e35c5-b585-4b74-bb71-79e441f42b04",
+      "type": "MCQ",
+      "question": "Consider the following Python code:\nWhat will be the output?",
+      "question_images": [
+        "/question_images/R8Vj6xtkeo07tAzDH34larQhYCtGKRGV1VIxCtbkZ9srd4jHlA.png"
+      ],
+      "local_question_images": [
+        "images/questions/q4_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q4_option1.png",
+          "inline_images": [
+            "images/options/q4_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q4_option2.png",
+          "inline_images": [
+            "images/options/q4_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q4_option3.png",
+          "inline_images": [
+            "images/options/q4_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q4_option4.png",
+          "inline_images": [
+            "images/options/q4_option4.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126675,
+      "question_number": 5,
+      "uuid": "3f46f5c3-6ad7-441e-a80d-eb74a14731ce",
+      "type": "MCQ",
+      "question": "Consider the following code:\nWhat will be the output?",
+      "question_images": [
+        "/question_images/6D1V3LkjxFS59flvC9WX5tTXPLNw9JvqufBOJY0wuTU9S1fvhb.png"
+      ],
+      "local_question_images": [
+        "images/questions/q5_1.png"
+      ],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q5_option1.png",
+          "inline_images": [
+            "images/options/q5_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q5_option2.png",
+          "inline_images": [
+            "images/options/q5_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q5_option3.png",
+          "inline_images": [
+            "images/options/q5_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q5_option4.png",
+          "inline_images": [
+            "images/options/q5_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126676,
+      "question_number": 6,
+      "uuid": "5e14f384-bae7-453f-84f5-b0188a4d0f41",
+      "type": "MSQ",
+      "question": "Consider the following Python code:\nWhich of the following statements are true?",
+      "question_images": [
+        "/question_images/G75AY66bBs4axrMzuZr5HEPUPYO6m2kYE564iqcpGgWSd36oct.png"
+      ],
+      "local_question_images": [
+        "images/questions/q6_1.png"
+      ],
+      "options": [
+        {
+          "text": "The final value of  is",
+          "image": null,
+          "local_image": "images/options/q6_option1_1.png",
+          "inline_images": [
+            "images/options/q6_option1_1.png",
+            "images/options/q6_option1_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The character  increases  by",
+          "image": null,
+          "local_image": "images/options/q6_option2_1.png",
+          "inline_images": [
+            "images/options/q6_option2_1.png",
+            "images/options/q6_option2_2.png",
+            "images/options/q6_option2_3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The letter  increases the value of  by  and the character  increases  by",
+          "image": null,
+          "local_image": "images/options/q6_option3_1.png",
+          "inline_images": [
+            "images/options/q6_option3_1.png",
+            "images/options/q6_option3_2.png",
+            "images/options/q6_option3_3.png",
+            "images/options/q6_option3_4.png",
+            "images/options/q6_option3_5.png",
+            "images/options/q6_option3_6.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "The letter  increases the value of  by  and the character  increases  by",
+          "image": null,
+          "local_image": "images/options/q6_option4_1.png",
+          "inline_images": [
+            "images/options/q6_option4_1.png",
+            "images/options/q6_option4_2.png",
+            "images/options/q6_option4_3.png",
+            "images/options/q6_option4_4.png",
+            "images/options/q6_option4_5.png",
+            "images/options/q6_option4_6.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126677,
+      "question_number": 7,
+      "uuid": "d302aa38-cc76-4b05-a18a-1d3de5a8fe6a",
+      "type": "MSQ",
+      "question": "Consider the following Python code:\nWhich of the following statements are true?",
+      "question_images": [
+        "/question_images/UP5mkgOHS60S3VCZxW4o7WMODpy0RvTtxNfu6QxypfpQBYerNr.png"
+      ],
+      "local_question_images": [
+        "images/questions/q7_1.png"
+      ],
+      "options": [
+        {
+          "text": "The output of the first  statement is",
+          "image": null,
+          "local_image": "images/options/q7_option1_1.png",
+          "inline_images": [
+            "images/options/q7_option1_1.png",
+            "images/options/q7_option1_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The output of the second  statement is",
+          "image": null,
+          "local_image": "images/options/q7_option2_1.png",
+          "inline_images": [
+            "images/options/q7_option2_1.png",
+            "images/options/q7_option2_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "The default value of  is used in the second function call",
+          "image": null,
+          "local_image": "images/options/q7_option3.png",
+          "inline_images": [
+            "images/options/q7_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "The function  returns two values as a tuple",
+          "image": null,
+          "local_image": "images/options/q7_option4.png",
+          "inline_images": [
+            "images/options/q7_option4.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The output of the second  statement is",
+          "image": null,
+          "local_image": "images/options/q7_option5_1.png",
+          "inline_images": [
+            "images/options/q7_option5_1.png",
+            "images/options/q7_option5_2.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126678,
+      "question_number": 8,
+      "uuid": "b6031b61-ab4e-4f58-bc97-9ac8ae595905",
+      "type": "SA",
+      "question": "What is the output of the following snippet of code?",
+      "question_images": [
+        "/question_images/VZRjGi26hvgqX3pigzQulxmifX63WDnK86Dy8czmuX4wbxOATZ.png"
+      ],
+      "local_question_images": [
+        "images/questions/q8_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126679,
+      "question_number": 9,
+      "uuid": "efcdba4c-9961-4071-95a2-c3d6798cccba",
+      "type": "SA",
+      "question": "Consider the following snippet of code. What will the output be?",
+      "question_images": [
+        "/question_images/PW0kW7LOouAf0ZOGwZlQ2ULHoSKjtmz6WbUHD955nhakMUNfyK.png"
+      ],
+      "local_question_images": [
+        "images/questions/q9_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126680,
+      "question_number": 10,
+      "uuid": "b5f5bb24-522a-40e3-a39e-4113a8af1c99",
+      "type": "SA",
+      "question": "What is the output of the following snippet of code? Note: <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> :checks whether an object belongs to a given type or any of its subclasses.",
+      "question_images": [
+        "/question_images/vktyJcCahGdANW94oTL0BV65P58s8sLHj05epsUIDEGIEZIskM.png"
+      ],
+      "local_question_images": [
+        "images/questions/q10_1.png"
+      ],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126681,
+      "question_number": 11,
+      "uuid": "86f5ac4b-d1d5-40e4-9f4b-8b34192876fc",
+      "type": "SA",
+      "question": "What is the output of the following snippet of code?",
+      "question_images": [
+        "/question_images/iw0LD1x7ueNYXYSQz8dEETtZSqanVQUYO26MJvTO3aLFSqh7Hl.png"
+      ],
+      "local_question_images": [
+        "images/questions/q11_1.png"
+      ],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 126682,
+      "question_number": 27,
+      "uuid": "97553fc1-23ac-47a5-ad0f-0e986180b040",
+      "type": "COMPREHENSION",
+      "question": "Consider the following snippet of code and answer the sub-questions:",
+      "question_images": [
+        "/question_images/kyq9xkckqBUcKWaM1DCDq9E1NBzOjnUbrFeBWnOUFhRP2M9haf.png"
+      ],
+      "local_question_images": [
+        "images/questions/q27_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126683,
+      "question_number": 12,
+      "uuid": "4f563372-9e0d-4276-91a9-c959eeffbb38",
+      "type": "MCQ",
+      "question": "What is the value of <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAcCAIAAAC2x5suAAADAklEQVR4nO2YXU8TQRSGz8x+tqVSQi0UCnVt/IiJRkQNIqEKGoVovNHERGK8Jsb/of+AK69MTCREY4QUo4ggsZgYwRAEtJRS+gUV2m5Lu213vdgG24qCtKTZhDd7Mbsz85x3Z05mZhdJkgTKFC61gZ1LwdZJMZVKJwRJVFLaIIwIhkYCH1WWb1kII6xE3wAgiZKCc71o1pe/znx7+rJYtO0wi2add/uKhdomEyXCfE5rj985OBpdDpIMra2rsXReIBgaAH7OOGb7bA3dXUy5Vm5pf9Rjajld29woiaL9YU8et/HBPUqjAgBH/zveF+CutM712YTYurqyguuwamurC2HKIrPr4sHVqScvqhuPH7nVGV8LOW0jM70Dx+7c+PfYIISP3r6+OPwRAOqsTRkuS8sFTBKp6Lp7ePxg50XA2Ds+Mds7cOr+XUQQO2ZmyNk37g+f1foKc9s5SqPS1lZzHdawyxNZ2ioTEOg4E8UyFMvoOJN8bTiTAAQ+Zm4/r7PU6zhTvfVsMhYPzbsLYW5inff45KmUVWY0IAJHXN4twmwlgqHVVZVyWVO1HzCKBlYKZEKedSESwxSVE5WmExEeChPJZE00AkySYjJVIBPyrBM0lU4ms5+kBYFk2U17bn8vE9PprG4gplKYIjdt+V/7Y451jdEQcf9OD94TkNKitsYAAIggAUAUMi8WD65C3mkZob8FTkbXE6GIXI76l0GUNAZ9gcx868YzJ2L+4MKbMYGPhRe9jv4hlb5CZ6kHgLIaPcLYPzEtB3PY3mM6J7WY8n0Rjz84/WNt3r0yNRd2LW1UEQzteDUUCwTTQnJx2E6p2XLOVCAT8hbHcs7EXW312r94xycAIx1Xf+BSMyAEAJRabbnW5no75vs0yer2mdubna9HIWtEjE0nQ0733PNBACBZxny5ZaOKUrG6Q9zk42cgSnSZ+vDNDnmtKIQJf25JRdf84Mja94WG7q6ik/eOX6XQrifM7knBo44RRqX2sBMhjDDB0Ipzn/ms3vuFVAIp2PovsX1lLe0Q2DoAAAAASUVORK5CYII=\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> after executing the given code?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q12_option1.png",
+          "inline_images": [
+            "images/options/q12_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q12_option2.png",
+          "inline_images": [
+            "images/options/q12_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q12_option3.png",
+          "inline_images": [
+            "images/options/q12_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q12_option4.png",
+          "inline_images": [
+            "images/options/q12_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126684,
+      "question_number": 13,
+      "uuid": "1a064921-5d46-4124-a7b5-15b6368cb04c",
+      "type": "MCQ",
+      "question": "In the given code, if we change the condition to <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> instead of <img src=\"data:image/png;base64,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\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> , what will be the value of <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAcCAIAAAC2x5suAAADAklEQVR4nO2YXU8TQRSGz8x+tqVSQi0UCnVt/IiJRkQNIqEKGoVovNHERGK8Jsb/of+AK69MTCREY4QUo4ggsZgYwRAEtJRS+gUV2m5Lu213vdgG24qCtKTZhDd7Mbsz85x3Z05mZhdJkgTKFC61gZ1LwdZJMZVKJwRJVFLaIIwIhkYCH1WWb1kII6xE3wAgiZKCc71o1pe/znx7+rJYtO0wi2add/uKhdomEyXCfE5rj985OBpdDpIMra2rsXReIBgaAH7OOGb7bA3dXUy5Vm5pf9Rjajld29woiaL9YU8et/HBPUqjAgBH/zveF+CutM712YTYurqyguuwamurC2HKIrPr4sHVqScvqhuPH7nVGV8LOW0jM70Dx+7c+PfYIISP3r6+OPwRAOqsTRkuS8sFTBKp6Lp7ePxg50XA2Ds+Mds7cOr+XUQQO2ZmyNk37g+f1foKc9s5SqPS1lZzHdawyxNZ2ioTEOg4E8UyFMvoOJN8bTiTAAQ+Zm4/r7PU6zhTvfVsMhYPzbsLYW5inff45KmUVWY0IAJHXN4twmwlgqHVVZVyWVO1HzCKBlYKZEKedSESwxSVE5WmExEeChPJZE00AkySYjJVIBPyrBM0lU4ms5+kBYFk2U17bn8vE9PprG4gplKYIjdt+V/7Y451jdEQcf9OD94TkNKitsYAAIggAUAUMi8WD65C3mkZob8FTkbXE6GIXI76l0GUNAZ9gcx868YzJ2L+4MKbMYGPhRe9jv4hlb5CZ6kHgLIaPcLYPzEtB3PY3mM6J7WY8n0Rjz84/WNt3r0yNRd2LW1UEQzteDUUCwTTQnJx2E6p2XLOVCAT8hbHcs7EXW312r94xycAIx1Xf+BSMyAEAJRabbnW5no75vs0yer2mdubna9HIWtEjE0nQ0733PNBACBZxny5ZaOKUrG6Q9zk42cgSnSZ+vDNDnmtKIQJf25JRdf84Mja94WG7q6ik/eOX6XQrifM7knBo44RRqX2sBMhjDDB0Ipzn/ms3vuFVAIp2PovsX1lLe0Q2DoAAAAASUVORK5CYII=\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option1.png",
+          "inline_images": [
+            "images/options/q13_option1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option2.png",
+          "inline_images": [
+            "images/options/q13_option2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option3.png",
+          "inline_images": [
+            "images/options/q13_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q13_option4.png",
+          "inline_images": [
+            "images/options/q13_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126685,
+      "question_number": 30,
+      "uuid": "db5fc9e7-356d-470e-8eee-88d52ba56515",
+      "type": "COMPREHENSION",
+      "question": "Consider the following snippet of code and answer the sub-questions:",
+      "question_images": [
+        "/question_images/jTycv0JJeynGh2LGzb1QCE9vSnFhqXjthXdocCGzZMIMeUA7nS.png"
+      ],
+      "local_question_images": [
+        "images/questions/q30_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126686,
+      "question_number": 14,
+      "uuid": "3af84f68-905c-4c46-abc9-815b9240afbe",
+      "type": "MCQ",
+      "question": "What are the values of <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAIAAADnU6hNAAABEklEQVR4nGP8//8/AymAiSTV5Ghg+ffnz9+fv/7/I+AwRiZGZnY2JhYWJmJUMzAw/P/3/+/PXwwMDEzEqIbrYSDHD8ica0s2fnr8DMJm5eLgFBaUsjQSUJbDqYGBgYFDWFDB1Ybh//9vr968vX735trt2jGBPFJicAXoTmJhZxNQlBFQkpWyMNSO8WdiYXlx9jKyAnx+YGJl5RDk//XpC7EaGP7///nxMxsvNz4/wMHPT18e7Dr85/sPES0VZHHGn0g2IocSxEkqvk5C6kpwETZebhyhxMDAwMDAIynKwsGOpgBdAySUcLmTgR7JG8XTBAEbLzftnUQHDYxMjEQqhahkYmZnI0YPpBBgYGBgHHwFGQD981Vkto0mWgAAAABJRU5ErkJggg==\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> and <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAIAAADnU6hNAAABpUlEQVR4nM2UzUsCQRTA38zOzprfCYUaEYiUEihFCV7rElSH6NKpfy/oUhFeCiEoOkQXD6V9GSxmXyZ+bbXbzk4HwTQGPzr1bm/e78d7D4aHOOcwSOCB6L8IxDJNphvc6jEYwkhSKCYE90MDALc40w0AwP3QLQf+ssOvvHyVL5ycf5QrRKGu8UB4ZRHLHUxHB+25dLN7SBQaXl4IJOLV+8L1zkG3Dmr6VLbbohuriEgAoLhdN3uHjeKLMzgq6MCMr6r64JsKNWkA8EVCmMqli2vxSHqlBhyoy9F6QRjLdvtnpS4WLMYAAFPaMbGNmtq7WJAIAQDL+GovM12XqCwWFK8bEDIa2k9P09RrmjLsEQtYJk7/SPkqzxlrvlTzKmfMMzEmFgAgmJwx6lp2a//t8vbxLHObOrJ53b5IqJ1Beq3Rnr9ksq+ZXL34BBz887Gx5KzsGGpVqcvx+y+NxqPTm2v+uRiScCARb6cFI7UikIgjhO/205U7taYWewuK2zm5vmRoH7nt1P3Bcbcduodgh56BEUZ9ok0SSwrtx2keAQBA/++QfQMVNZ+GuCOovwAAAABJRU5ErkJggg==\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> after executing the given code?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q14_option1.png",
+          "inline_images": [
+            "images/options/q14_option1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q14_option2.png",
+          "inline_images": [
+            "images/options/q14_option2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q14_option3.png",
+          "inline_images": [
+            "images/options/q14_option3.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q14_option4.png",
+          "inline_images": [
+            "images/options/q14_option4.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 126687,
+      "question_number": 15,
+      "uuid": "7304fcd1-1661-4061-8a45-30cabed88daf",
+      "type": "MSQ",
+      "question": "Which of the following statements are true?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Both  and  are substrings of",
+          "image": null,
+          "local_image": "images/options/q15_option1_1.png",
+          "inline_images": [
+            "images/options/q15_option1_1.png",
+            "images/options/q15_option1_2.png",
+            "images/options/q15_option1_3.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "The expression  evaluates to",
+          "image": null,
+          "local_image": "images/options/q15_option2_1.png",
+          "inline_images": [
+            "images/options/q15_option2_1.png",
+            "images/options/q15_option2_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "The comparison ignores uppercase and lowercase letters",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The expression  evaluates to",
+          "image": null,
+          "local_image": "images/options/q15_option4_1.png",
+          "inline_images": [
+            "images/options/q15_option4_1.png",
+            "images/options/q15_option4_2.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    }
+  ]
+}

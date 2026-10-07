@@ -1,0 +1,492 @@
+{
+  "paper": {
+    "id": 630,
+    "name": "Statistics2 16 Jul 26",
+    "description": "Statistics2 16 Jul 26",
+    "uuid": "dca4731c-c7c",
+    "year": 2026,
+    "source": "pyq",
+    "exam": "Quiz 1",
+    "course": null,
+    "subject": "Statistics2",
+    "source_url": "https://quizpractice.space/question-paper/practise/4/dca4731c-c7c",
+    "scraped_at": "2026-10-03T07:52:50.509354+00:00"
+  },
+  "questions": [
+    {
+      "question_id": 128683,
+      "question_number": 2,
+      "uuid": "c8448aaf-143e-4c52-b6d7-3258cc6c96ca",
+      "type": "MCQ",
+      "question": "",
+      "question_images": [
+        "/question_images/CJOBdIncMxFYt4ZJpRTdbgiMOvkrhELLP4r1YevXCtxmneizW5.png",
+        "/question_images/9tjwPCTXzSGaXv2AaCRY9PD4Ay0fvIQaPzebkSNgyUay8z01G7.png"
+      ],
+      "local_question_images": [
+        "images/questions/q2_1.png",
+        "images/questions/q2_2.png"
+      ],
+      "options": [
+        {
+          "text": "Useful Data has been mentioned above.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "This data attachment is just for a reference & not for an evaluation.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128684,
+      "question_number": 3,
+      "uuid": "b49b82c9-7bfd-4cf6-9e3d-7903cf0f1bc9",
+      "type": "SA",
+      "question": "Let X be a continuous random variable with PDF as follows:\nFind the value of a.",
+      "question_images": [
+        "/question_images/2LvQ5vyd1dszsxNB3omZ5nG7PvL7dNlzssHS9mXTgpwTtzaNdN.png"
+      ],
+      "local_question_images": [
+        "images/questions/q3_1.png"
+      ],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128685,
+      "question_number": 4,
+      "uuid": "49457f29-603a-43b3-a616-e924c0bb2164",
+      "type": "SA",
+      "question": "Let <img src=\"images/questions/q4_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> and <img src=\"images/questions/q4_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> be two independent random variables such that <img src=\"images/questions/q4_inline_3.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> <img src=\"images/questions/q4_inline_4.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> <img src=\"images/questions/q4_inline_5.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> Let another random variable <img src=\"images/questions/q4_inline_6.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> be defined as <img src=\"images/questions/q4_inline_7.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> Find the value of <img src=\"images/questions/q4_inline_8.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> Enter the answer correct to two decimal places.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128686,
+      "question_number": 5,
+      "uuid": "55d98cef-9b44-49ee-86a1-69491fdbbc72",
+      "type": "SA",
+      "question": "A number from 00 to 99 is selected uniformly at random.The numbers 0 to 9 are treated as two digit numbers and denoted as 00 to 09. Let, • <img src=\"images/questions/q5_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> be the digit in the units place, • <img src=\"images/questions/q5_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> be the remainder when the number is divided by 4. Find the value of <img src=\"images/questions/q5_inline_3.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> . Enter the answer correct to two decimal places.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128687,
+      "question_number": 6,
+      "uuid": "7dda185b-ff34-49b1-b2fe-d5efc090d378",
+      "type": "SA",
+      "question": "A random variable <img src=\"images/questions/q6_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> has mean 10 and variance 9. Using Chebyshev's inequality, find a lower bound on <img src=\"images/questions/q6_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> . Enter the answer correct to two decimal places.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128688,
+      "question_number": 7,
+      "uuid": "00a41d6a-4846-4557-8e97-2f5c76af470b",
+      "type": "SA",
+      "question": "A shopping mall issues 400 lucky draw coupons. Among them, one coupon is worth a gift voucher of Rs 2000, one coupon is worth a gift voucher of Rs 1000, and all other coupons are worth Rs 0. If a customer receives 2 coupons drawn at random from the 400, what is the expected value (in Rs) of the prizes won by the customer?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128689,
+      "question_number": 7,
+      "uuid": "721275d6-6ed8-404e-9566-456c30692ccf",
+      "type": "COMPREHENSION",
+      "question": "Let <img src=\"images/questions/q7_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> be a discrete random variable with PMF\nBased on the above data, answer the given subquestions.",
+      "question_images": [
+        "/question_images/1p1983pfmUX5KJAY9LLFUI9w0VYdazxT0ayEYoaK4171unJUsE.png"
+      ],
+      "local_question_images": [
+        "images/questions/q7_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128690,
+      "question_number": 8,
+      "uuid": "12a88879-4099-4341-bd03-61739b0fd187",
+      "type": "MCQ",
+      "question": "Find the value of <img src=\"images/questions/q8_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" />",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": "app/option_images/VhZuh5hmEKtIZt2KlxJ65nJdfIbkGX2ZEr1ntYpy1mDhnldgYP.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q8_option2_1.png",
+          "inline_images": [
+            "images/options/q8_option2_1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/rRY4LP9uDFCh89lcU3zPpENuaPwYmVV5cqhy7c6vWU3vZhyPz9.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": null,
+          "local_image": "images/options/q8_option4_1.png",
+          "inline_images": [
+            "images/options/q8_option4_1.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128691,
+      "question_number": 9,
+      "uuid": "99706ec2-8f95-40cb-a047-b1b08c41ba4f",
+      "type": "SA",
+      "question": "Using Markov's inequality, obtain an upper bound for <img src=\"images/questions/q9_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> Enter the answer correct to two decimal places.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128692,
+      "question_number": 10,
+      "uuid": "d51d31a5-5864-414c-ac18-c949174338ca",
+      "type": "COMPREHENSION",
+      "question": "Let the random variables <img src=\"images/questions/q10_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> i.i.d Uniform{1, 2, 3, 4}. Based on the above data, answer the given subquestions.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128693,
+      "question_number": 10,
+      "uuid": "546065f4-6600-4593-b34a-faf0295013a6",
+      "type": "MCQ",
+      "question": "What is the value of <img src=\"images/questions/q10_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": "app/option_images/FjJyTUoMpOTApmPagBGeoUwbHugAYPBxBQ4Rp9npPZceqaXMtc.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/VJ4Sq8ZQCKOqp1Fj1keptsSBfmtZB1KbCiHEnBC0gifEmQ8lFP.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/VUw6fae6pgvgsxP5wOyUs2yBKfvQCpWf0EQ4ZtDWY4j3PoTpe6.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/NrJVaZkVzJtwaqmA10wdUarJLR5whY5oKzr4fjJbJwO40218jk.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128694,
+      "question_number": 11,
+      "uuid": "cd5e3a70-9f35-490b-a6c3-1a7092be6fff",
+      "type": "SA",
+      "question": "Let <img src=\"images/questions/q11_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> find the value of <img src=\"images/questions/q11_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> Enter the answer correct to three decimal places.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128695,
+      "question_number": 13,
+      "uuid": "0f799c6b-1540-4fa5-9bcc-fad5e35c6aad",
+      "type": "COMPREHENSION",
+      "question": "Let <img src=\"images/questions/q13_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> be i.i.d random variables with the following probability mass function\nBased on the above data, answer the given subquestions.",
+      "question_images": [
+        "/question_images/eMMGGXAeAPyiSYdaGyRvsiIPG5KnsWDF5tXyc4Q8jugDKppY46.png"
+      ],
+      "local_question_images": [
+        "images/questions/q13_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128696,
+      "question_number": 12,
+      "uuid": "81ed696d-a04d-4c54-b4f8-907e93b53a62",
+      "type": "MCQ",
+      "question": "Find the value of <img src=\"images/questions/q12_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> .",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": "app/option_images/WUHqmTCZLOKGS8kr2o6j4pA3Cuiapqxu9SoEdpQbD5rQf13gmT.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/wXrXEAn6HrrOvywkaKXZBAwq2GusqHL3EtliKHN6efRHIxTySm.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "",
+          "image": "app/option_images/wEI62teJSczS98dbRagQvdiwRy7o60KRw34z0t9IxUQH80gvqx.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/hyxOVaci1n4foyFkoHyxOrOESRc4CpjRie7V5gvK9WKzNnjAYx.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128697,
+      "question_number": 13,
+      "uuid": "568d4248-0ecd-4731-a62d-8bac9295f8ab",
+      "type": "MCQ",
+      "question": "Find the value of <img src=\"images/questions/q13_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> .",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "",
+          "image": "app/option_images/ld5uMf2krqzsjjWLHQDpttA74LFPYz4kvoKQ0bj1lLKW8gBVR9.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/n0tTp8zNSbrUqJOdMWha5OGLhemYb2O2hKrTOq7dPQfld2gQcn.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/fCjIQGqRxkLPCkgenA0aIMlCkOfuS686UeFlc1PKTpRYU61e4k.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "",
+          "image": "app/option_images/eJqW61DJxeiHrqoYBRzDjpKC29MIkGYNbXN3FgeNikYOkpfnT9.png",
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128698,
+      "question_number": 16,
+      "uuid": "27dae911-37b3-4cf2-adc7-1f1d853a3fdf",
+      "type": "COMPREHENSION",
+      "question": "Let <img src=\"images/questions/q16_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> be i.i.d samples of a discrete random variable <img src=\"images/questions/q16_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> whose PMF is as follows:\nBased on the above data, answer the given subquestions.",
+      "question_images": [
+        "/question_images/cg8mZrKpZfKQ7UrgMZD9yK2HMaPyGrMELING0LY9yRnVdhDpSu.png"
+      ],
+      "local_question_images": [
+        "images/questions/q16_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128699,
+      "question_number": 14,
+      "uuid": "223b2f49-c086-4f8c-8f7b-88e9edbff671",
+      "type": "SA",
+      "question": "What is the probability that 1 appears exactly once in the samples? Enter the answer correct to two decimal places.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128700,
+      "question_number": 15,
+      "uuid": "5127e52d-6d63-4892-8079-abfc2e18fd42",
+      "type": "SA",
+      "question": "What is the probability that none of the four samples is equal to 0? Enter the answer correct to two decimal places.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128701,
+      "question_number": 19,
+      "uuid": "b1ec9e26-25f2-4e69-9c4e-6e15731b28a6",
+      "type": "COMPREHENSION",
+      "question": "Suppose that the time <img src=\"images/questions/q19_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> (in minutes) that a customer waits at a service counter is a random variable with probability density function\nLet <img src=\"images/questions/q19_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> be the event that a person has to wait for more than 2 minutes and <img src=\"images/questions/q19_inline_3.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> be the event that he has to wait for more than 1 minute. Find the value of <img src=\"images/questions/q19_inline_4.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> .",
+      "question_images": [
+        "/question_images/tVeFKVpyhBrWQQr7vdgSfpIsIftCIIeCKRlJfVsE1pdArxzjdX.png",
+        "/question_images/QyRsw3nAVgQYnxLIFRQSd5m0ggsR43RFWZDUNUDUDpNUkJESmO.png"
+      ],
+      "local_question_images": [
+        "images/questions/q19_1.png",
+        "images/questions/q19_2.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 128702,
+      "question_number": 16,
+      "uuid": "ebe5a53e-5a91-4b7b-9054-818ee2f6296f",
+      "type": "SA",
+      "question": "Enter the correct option number for <img src=\"images/questions/q16_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> .",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "1.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128703,
+      "question_number": 17,
+      "uuid": "1f9a0c59-bf48-427c-b6bf-a7305ccc3e8a",
+      "type": "SA",
+      "question": "Enter the correct option number for <img src=\"images/questions/q17_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> .",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "1.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128704,
+      "question_number": 18,
+      "uuid": "b48c06c2-b0a0-45b9-a52a-590a8e79bbb3",
+      "type": "SA",
+      "question": "Enter the correct option number for <img src=\"images/questions/q18_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> .",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "1.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128705,
+      "question_number": 19,
+      "uuid": "25b5e7e1-f2e9-4902-906a-d9f0dc25a763",
+      "type": "SA",
+      "question": "Enter the correct option number for <img src=\"images/questions/q19_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> .",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "1.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 128706,
+      "question_number": 20,
+      "uuid": "dcf2e9d5-769f-4fb2-9db5-17ebb3236469",
+      "type": "SA",
+      "question": "Calculate the value for <img src=\"images/questions/q20_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> . Enter the answer correct to one decimal place.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "1.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    }
+  ]
+}

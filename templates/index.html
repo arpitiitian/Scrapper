@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>QuizPractice Scraper</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Inter, sans-serif;
+        }
+
+        body {
+            background: #f8f4ea;
+            min-height: 100vh;
+            color: #2d2d2d;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+        }
+
+        .eyebrow {
+            display: inline-block;
+            background: #e6dcc6;
+            color: #6b5d43;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+        }
+
+        h1 {
+            font-size: 42px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: #666;
+            margin-bottom: 25px;
+        }
+
+        .card {
+            background: #fffdf7;
+            border: 1px solid #e7ddca;
+            border-radius: 20px;
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, .05);
+        }
+
+        .card h2 {
+            margin-bottom: 20px;
+            color: #5d4e37;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        input {
+            width: 100%;
+            padding: 14px;
+            border: 1px solid #d8cdb8;
+            border-radius: 12px;
+            margin-bottom: 18px;
+            font-size: 15px;
+            background: #fff;
+        }
+
+        input:focus {
+            outline: none;
+            border-color: #9c8b6f;
+        }
+
+        button {
+            width: 100%;
+            border: none;
+            padding: 15px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 700;
+            background: #7c6747;
+            color: white;
+        }
+
+        button:hover {
+            opacity: .9;
+        }
+
+        pre {
+            background: #f5efe2;
+            padding: 15px;
+            border-radius: 12px;
+            overflow: auto;
+        }
+
+        .status {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 12px;
+            font-size: 15px;
+        }
+
+        .success {
+            background: #e8f7ea;
+            color: #177d35;
+        }
+
+        .error {
+            background: #ffe8e8;
+            color: #b32020;
+        }
+
+        .view {
+            display: inline-block;
+            margin-top: 12px;
+            background: #7c6747;
+            color: white;
+            text-decoration: none;
+            padding: 12px 18px;
+            border-radius: 10px;
+            font-weight: 600;
+        }
+    </style>
+
+</head>
+
+<body>
+    <main class="container">
+        <div class="eyebrow">QUIZPRACTICE</div>
+        <h1>Question Paper Scraper</h1>
+        <p>URL do → Subject do → questions.json + images automatically.</p>
+        <section class="card">
+            <h2>Scrape a Paper</h2>
+            <form id="form"><label>Subject</label><input name="subject" placeholder="Subject Name" required><label>Question Paper
+                    URL</label><input name="url" placeholder="https://quizpractice.space/question-paper/..."
+                    required><button id="btn">Start Scraping</button></form>
+            <div id="status"></div>
+        </section>
+        <section class="card">
+            <h2>Output</h2>
+            <pre>data/Subject/Paper Name/
+├── questions.json
+└── images/
+    ├── questions/
+    └── options/</pre>
+        </section>
+    </main>
+    <script>const f = document.getElementById('form'), b = document.getElementById('btn'), s = document.getElementById('status'); f.onsubmit = async e => { e.preventDefault(); b.disabled = true; b.textContent = 'Scraping...'; s.className = 'status'; s.textContent = 'Page aur images download ho rahi hain...'; try { let r = await fetch('/scrape', { method: 'POST', body: new FormData(f) }), d = await r.json(); if (!d.ok) throw Error(d.error); s.className = 'status success'; let v = '/view/' + encodeURIComponent(d.subject) + '/' + encodeURIComponent(d.paper); s.innerHTML = `<b>✅ Complete!</b><br>Subject: ${d.subject}<br>Paper: ${d.paper}<br>Questions: ${d.questions}<br>Images downloaded: ${d.images_downloaded}<br>Images failed: ${d.images_failed}<br><br><a class="view" href="${v}" target="_blank">Open Paper Preview</a>` } catch (x) { s.className = 'status error'; s.textContent = '❌ ' + x.message } finally { b.disabled = false; b.textContent = 'Start Scraping' } };</script>
+</body>
+
+</html>

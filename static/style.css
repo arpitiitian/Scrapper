@@ -1,0 +1,538 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #f3f4f4;
+    color: #111;
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+}
+
+
+/* ==========================================
+   SIDEBAR
+========================================== */
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 64px;
+    height: 100vh;
+
+    background: #111;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding-top: 18px;
+
+    z-index: 10;
+}
+
+.side-logo {
+    width: 42px;
+    height: 42px;
+
+    border-radius: 50%;
+
+    background: #13884d;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 22px;
+    font-weight: 800;
+
+    margin-bottom: 45px;
+}
+
+.side-icon {
+    width: 42px;
+    height: 48px;
+
+    color: #ddd;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 20px;
+
+    margin-bottom: 10px;
+}
+
+
+/* ==========================================
+   APP
+========================================== */
+
+.app {
+    margin-left: 64px;
+    min-height: 100vh;
+}
+
+
+/* ==========================================
+   TOP BAR
+========================================== */
+
+.topbar {
+    height: 76px;
+
+    background: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 32px;
+
+    border-bottom: 1px solid #ddd;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.brand-logo {
+    width: 48px;
+    height: 48px;
+
+    border-radius: 50%;
+
+    background: #0b8a4b;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.brand-name {
+    font-size: 20px;
+    font-weight: 800;
+    letter-spacing: 1px;
+
+    color: #0c5637;
+}
+
+.brand-sub {
+    font-size: 11px;
+    color: #777;
+
+    margin-top: 2px;
+}
+
+.profile {
+    width: 42px;
+    height: 42px;
+
+    border-radius: 5px;
+
+    background: #eee;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 22px;
+}
+
+
+/* ==========================================
+   NAVBAR
+========================================== */
+
+.navbar {
+    height: 54px;
+
+    background: #087d46;
+
+    display: flex;
+    align-items: center;
+
+    padding: 0 28px;
+
+    gap: 5px;
+}
+
+.navbar a {
+    height: 38px;
+
+    padding: 0 22px;
+
+    display: flex;
+    align-items: center;
+
+    color: white;
+
+    text-decoration: none;
+
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.navbar a.active {
+    background: white;
+    color: #087d46;
+}
+
+.navbar button {
+    margin-left: auto;
+
+    border: 0;
+
+    background: #f4a928;
+    color: white;
+
+    padding: 12px 20px;
+
+    font-size: 13px;
+    font-weight: 800;
+
+    cursor: pointer;
+}
+
+
+/* ==========================================
+   PAPER
+========================================== */
+
+.paper {
+    width: min(1050px, calc(100% - 40px));
+
+    margin: 18px auto 50px;
+
+    background: white;
+
+    border: 1px solid #ddd;
+
+    border-radius: 4px;
+
+    overflow: hidden;
+}
+
+.paper-head {
+    padding: 24px 28px;
+
+    border-bottom: 1px solid #ddd;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.subject-label {
+    color: #0b7c45;
+
+    font-size: 13px;
+
+    font-weight: 800;
+
+    text-transform: uppercase;
+
+    margin-bottom: 7px;
+}
+
+.paper-head h1 {
+    margin: 0;
+
+    font-size: 25px;
+}
+
+.meta {
+    color: #666;
+
+    font-size: 13px;
+}
+
+
+/* ==========================================
+   QUESTION
+========================================== */
+
+.question {
+    margin: 14px;
+
+    border: 1px solid #ddd;
+
+    background: white;
+
+    border-radius: 4px;
+
+    overflow: hidden;
+}
+
+.question-header {
+    min-height: 55px;
+
+    padding: 0 24px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-bottom: 1px solid #ddd;
+
+    background: #fafafa;
+}
+
+.question-header h2 {
+    margin: 0;
+
+    font-size: 18px;
+}
+
+.question-type {
+    border: 1px solid #ddd;
+
+    border-radius: 4px;
+
+    padding: 7px 12px;
+
+    color: #777;
+
+    font-size: 12px;
+}
+
+
+/* ==========================================
+   QUESTION TEXT
+========================================== */
+
+.qtext {
+    padding: 28px 34px 20px;
+
+    font-size: 18px;
+
+    line-height: 1.75;
+
+    white-space: pre-wrap;
+
+    color: #171717;
+}
+
+
+/* ==========================================
+   QUESTION IMAGE
+========================================== */
+
+.question-image {
+    display: block;
+
+    max-width: calc(100% - 68px);
+
+    max-height: 650px;
+
+    object-fit: contain;
+
+    margin: 10px auto 25px;
+
+    border-radius: 4px;
+}
+
+
+/* ==========================================
+   OPTIONS
+========================================== */
+
+.options-title {
+    padding: 15px 34px 8px;
+
+    font-size: 13px;
+
+    font-weight: 800;
+
+    color: #555;
+
+    letter-spacing: .5px;
+}
+
+.option {
+    margin: 10px 34px;
+
+    min-height: 58px;
+
+    border: 1px solid #ddd;
+
+    border-radius: 5px;
+
+    display: flex;
+
+    align-items: flex-start;
+
+    padding: 15px 18px;
+
+    gap: 14px;
+
+    background: white;
+}
+
+.option-letter {
+    font-weight: 800;
+
+    min-width: 25px;
+
+    font-size: 16px;
+}
+
+.option-content {
+    flex: 1;
+
+    min-width: 0;
+}
+
+.option-text {
+    font-size: 16px;
+
+    line-height: 1.5;
+
+    white-space: pre-wrap;
+}
+
+.option-image {
+    display: block;
+
+    max-width: 100%;
+
+    max-height: 350px;
+
+    object-fit: contain;
+
+    margin-top: 6px;
+
+    border-radius: 3px;
+}
+
+
+/* ==========================================
+   ERROR
+========================================== */
+
+.error {
+    margin: 30px;
+
+    padding: 20px;
+
+    border: 1px solid #e1aaaa;
+
+    background: #fff4f4;
+
+    color: #9d2222;
+
+    border-radius: 5px;
+}
+
+
+/* ==========================================
+   PRINT
+========================================== */
+
+@media print {
+
+    .sidebar,
+    .navbar {
+        display: none;
+    }
+
+    .app {
+        margin-left: 0;
+    }
+
+    .topbar {
+        border-bottom: 1px solid #aaa;
+    }
+
+    .paper {
+        width: 100%;
+
+        margin: 0;
+
+        border: 0;
+    }
+
+    .question {
+        break-inside: avoid;
+    }
+
+    .option {
+        break-inside: avoid;
+    }
+}
+
+
+/* ==========================================
+   MOBILE
+========================================== */
+
+@media (max-width: 700px) {
+
+    .sidebar {
+        display: none;
+    }
+
+    .app {
+        margin-left: 0;
+    }
+
+    .topbar {
+        padding: 0 15px;
+    }
+
+    .navbar {
+        overflow-x: auto;
+
+        padding: 0 10px;
+    }
+
+    .navbar a {
+        padding: 0 12px;
+
+        white-space: nowrap;
+    }
+
+    .navbar button {
+        display: none;
+    }
+
+    .paper {
+        width: calc(100% - 16px);
+
+        margin: 8px auto;
+    }
+
+    .paper-head {
+        display: block;
+    }
+
+    .meta {
+        margin-top: 12px;
+    }
+
+    .qtext {
+        padding: 20px;
+
+        font-size: 16px;
+    }
+
+    .question-image {
+        max-width: calc(100% - 30px);
+    }
+
+    .option {
+        margin: 8px 15px;
+    }
+}

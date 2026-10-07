@@ -1,0 +1,535 @@
+{
+  "paper": {
+    "id": 593,
+    "name": "Statistics1 16 Jul 26",
+    "description": "Statistics1 16 Jul 26",
+    "uuid": "aae3434f-90d",
+    "year": 2026,
+    "source": "pyq",
+    "exam": "Quiz 1",
+    "course": null,
+    "subject": "Statistics1",
+    "source_url": "https://quizpractice.space/question-paper/practise/17/aae3434f-90d",
+    "scraped_at": "2026-10-03T07:49:53.228839+00:00"
+  },
+  "questions": [
+    {
+      "question_id": 127827,
+      "question_number": 2,
+      "uuid": "064d06c0-5187-4d4f-a405-6e587c246cdf",
+      "type": "MSQ",
+      "question": "A researcher selects 200 scholars from a research institute and records their registration numbers, the time spent on their research projects per week (in hours), their monthly stipend (in Rs.), alongside their preferred mode of conducting research (Laboratory-based, Computer-based, or Hybrid).   Based on this study, choose all the correct statements from the following:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "\"All scholars in the institute\" represents the population, while \"the 200 selected scholars\" represents the sample.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "The \"preferred mode of research\" is a qualitative variable, whereas the \"time spent on research per week\" is a quantitative variable.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "The time spent on research per week is a categorical variable.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The Registration numbers are numerical variables.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Monthly stipend measured in rupees is a numerical variable.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 127828,
+      "question_number": 3,
+      "uuid": "94fbf227-6280-4302-bac2-f7c6a39f569c",
+      "type": "MSQ",
+      "question": "Which of the following statements is/are meaningful?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "A person ranked 2nd performed twice as well as a person ranked 4th.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "A temperature of  is twice as hot as a temperature of  .",
+          "image": null,
+          "local_image": "images/options/q3_option2_1.png",
+          "inline_images": [
+            "images/options/q3_option2_1.png",
+            "images/options/q3_option2_2.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "A package weighing  kg is twice as heavy as a package weighing  kg.",
+          "image": null,
+          "local_image": "images/options/q3_option3_1.png",
+          "inline_images": [
+            "images/options/q3_option3_1.png",
+            "images/options/q3_option3_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "Blood groups do not have a natural ordering.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 127829,
+      "question_number": 4,
+      "uuid": "7b9525f7-88d1-417f-b018-e68ef5de8f19",
+      "type": "MSQ",
+      "question": "Choose all the correct statements from the following:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Monthly electricity consumption of a household from January 2025 to December 2025 is a Time-series data.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Marks obtained by all students in a Statistics exam in Quiz 1 is a Time-series data.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Monthly salaries of 500 employees in a company recorded in June 2026 is a cross-sectional data.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Marks obtained by a particular student in Statistics tests conducted every month during the year is cross sectional data.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "2.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 127830,
+      "question_number": 4,
+      "uuid": "71e11a7c-8c03-41ce-bf41-e473adee28c0",
+      "type": "COMPREHENSION",
+      "question": "<img src=\"images/questions/q4_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> , <img src=\"images/questions/q4_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> , <img src=\"images/questions/q4_inline_3.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> , and <img src=\"images/questions/q4_inline_4.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> are observations, and the sum of their frequencies is 200. The relative frequencies corresponding to <img src=\"images/questions/q4_inline_5.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> , <img src=\"images/questions/q4_inline_6.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> , and <img src=\"images/questions/q4_inline_7.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> are 20%, 25%, and 30%, respectively. Based on this information, answer the given subquestions:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 127831,
+      "question_number": 5,
+      "uuid": "dbfb16a4-4f5e-4148-b1ab-8c40c7784cbf",
+      "type": "SA",
+      "question": "What is the frequency corresponding to <img src=\"images/questions/q5_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 127832,
+      "question_number": 6,
+      "uuid": "32922c72-03ed-4a82-bddd-3ae20fb41407",
+      "type": "SA",
+      "question": "What will be the cumulative frequency of <img src=\"images/questions/q6_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> , <img src=\"images/questions/q6_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> , and <img src=\"images/questions/q6_inline_3.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "3.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 127833,
+      "question_number": 7,
+      "uuid": "9078b9ab-3e97-45c9-a2b6-2701ee23c289",
+      "type": "COMPREHENSION",
+      "question": "Figure 1 represents the placement percentage of students in different sectors from an engineering college.\nBased on the given data, answer the given subquestions:",
+      "question_images": [
+        "/question_images/hRm1MGNuwIlwbylSBTQEK6KHr8KXOHWIoock20LYjGBD29e1sy.png"
+      ],
+      "local_question_images": [
+        "images/questions/q7_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 127834,
+      "question_number": 7,
+      "uuid": "60713740-f2e7-4961-a168-7c3f265b3047",
+      "type": "MCQ",
+      "question": "What is the mode of the placement sectors?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "Analytics",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Software",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "Consultancy",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Core",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "1.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 127835,
+      "question_number": 8,
+      "uuid": "cad2e5ca-5040-456a-bf80-4f86ad1ed578",
+      "type": "MCQ",
+      "question": "If 1000 students were placed according to the percentages shown in the pie chart, which of the following statements is true?",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "The difference between the number of students placed in Core and the sum of those in Consultancy and Analytics is 100.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The mode of the placement sectors is shared by Analytics and Software.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "The sector with the second-highest placement has 50 more students placed than the lowest sector.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": true
+        },
+        {
+          "text": "The sector with the least placement has half as many students as the highest placed sector.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        }
+      ],
+      "total_mark": "3.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 127836,
+      "question_number": 10,
+      "uuid": "fc6baf52-c82a-4aab-8671-70003ca2601b",
+      "type": "COMPREHENSION",
+      "question": "600 students are classified according to their level of attendance and academic performance. The results are given in Table 1.\nBased on the above data, answer the given subquestions.",
+      "question_images": [
+        "/question_images/6O6DeEoVRGBXFGM1I1GAdFxDX3BeFGEJM8RciVYmNBUaDIt97x.png"
+      ],
+      "local_question_images": [
+        "images/questions/q10_1.png"
+      ],
+      "options": [],
+      "total_mark": "0.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 127837,
+      "question_number": 9,
+      "uuid": "50e7dc87-05d5-44ae-8a60-7f5db1bb1763",
+      "type": "SA",
+      "question": "What proportion of total students are irregular? (Enter the answer correct to 1 decimal places)",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 127838,
+      "question_number": 10,
+      "uuid": "ddb45923-4172-4514-857d-3c9d84c6bd5f",
+      "type": "SA",
+      "question": "What proportion of irregular students are having low academic performance? (Enter the answer correct to 2 decimal places)",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 127839,
+      "question_number": 11,
+      "uuid": "2d9d1c81-2993-4301-98f1-17f86f260e6a",
+      "type": "MSQ",
+      "question": "In a deck, there are cards numbered <img src=\"images/questions/q11_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> to <img src=\"images/questions/q11_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> such that the number of cards of a particular number in the deck is same as the number on the card. Which of the following statement(s) is/are true about the mean and mode of the numbers on this deck of card?  Hint:",
+      "question_images": [
+        "/question_images/cLcim58SiVJ3vWzAXsZdvpT2AHPNdVAqHrzX3YP6sDmgEITgN3.png"
+      ],
+      "local_question_images": [
+        "images/questions/q11_1.png"
+      ],
+      "options": [
+        {
+          "text": "Mode is not defined for this data.",
+          "image": null,
+          "local_image": null,
+          "inline_images": [],
+          "correct": false
+        },
+        {
+          "text": "Mean is  .",
+          "image": null,
+          "local_image": "images/options/q11_option2_1.png",
+          "inline_images": [
+            "images/options/q11_option2_1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "Mode is  .",
+          "image": null,
+          "local_image": "images/options/q11_option3_1.png",
+          "inline_images": [
+            "images/options/q11_option3_1.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "Mode is  .",
+          "image": null,
+          "local_image": "images/options/q11_option4_1.png",
+          "inline_images": [
+            "images/options/q11_option4_1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "Mean is  .",
+          "image": null,
+          "local_image": "images/options/q11_option5_1.png",
+          "inline_images": [
+            "images/options/q11_option5_1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "Mean is  .",
+          "image": null,
+          "local_image": "images/options/q11_option6_1.png",
+          "inline_images": [
+            "images/options/q11_option6_1.png"
+          ],
+          "correct": true
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 127840,
+      "question_number": 12,
+      "uuid": "1491a54c-7c8a-4b06-a5aa-f3afeef6ccc6",
+      "type": "MSQ",
+      "question": "A total of <img src=\"images/questions/q12_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> students wrote a competitive exam. Rahul's score is denoted by <img src=\"images/questions/q12_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> , which happens to be exactly at the <img src=\"images/questions/q12_inline_3.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> percentile. Suppose the examiner realizes that there was a grading error on Rahul's paper, and his score <img src=\"images/questions/q12_inline_4.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> needs to increase slightly but remains below <img src=\"images/questions/q12_inline_5.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> percentile values; Choose all the correct statements from the following:",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [
+        {
+          "text": "In the original results, approximately  students scored less than or equal to  .",
+          "image": null,
+          "local_image": "images/options/q12_option1_1.png",
+          "inline_images": [
+            "images/options/q12_option1_1.png",
+            "images/options/q12_option1_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "Changing the value of  will definitely alter the mean score of the  students.",
+          "image": null,
+          "local_image": "images/options/q12_option2_1.png",
+          "inline_images": [
+            "images/options/q12_option2_1.png",
+            "images/options/q12_option2_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "Changing the value of  will not alter the median score of the  students.",
+          "image": null,
+          "local_image": "images/options/q12_option3_1.png",
+          "inline_images": [
+            "images/options/q12_option3_1.png",
+            "images/options/q12_option3_2.png"
+          ],
+          "correct": true
+        },
+        {
+          "text": "Changing the value of  will definitely change the total range of scores.",
+          "image": null,
+          "local_image": "images/options/q12_option4_1.png",
+          "inline_images": [
+            "images/options/q12_option4_1.png"
+          ],
+          "correct": false
+        },
+        {
+          "text": "Changing the value of  will definitely change the Inter quartile Range (IQR) of the data set.",
+          "image": null,
+          "local_image": "images/options/q12_option5_1.png",
+          "inline_images": [
+            "images/options/q12_option5_1.png"
+          ],
+          "correct": false
+        }
+      ],
+      "total_mark": "4.00",
+      "answer_type": null,
+      "response_type": null
+    },
+    {
+      "question_id": 127841,
+      "question_number": 13,
+      "uuid": "06d78360-ff82-419f-83b8-e7ed5ff41af6",
+      "type": "SA",
+      "question": "The mean of the <img src=\"images/questions/q13_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> values in a given dataset is <img src=\"images/questions/q13_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> . When these values are rearranged in a certain order, the mean of the first <img src=\"images/questions/q13_inline_3.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> values and the last <img src=\"images/questions/q13_inline_4.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> values are <img src=\"images/questions/q13_inline_5.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> and <img src=\"images/questions/q13_inline_6.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> respectively. Find the tenth value after the rearrangement.",
+      "question_images": [],
+      "local_question_images": [],
+      "options": [],
+      "total_mark": "4.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 127842,
+      "question_number": 14,
+      "uuid": "f1cef7e8-6aa9-43d9-b826-b11c6deda2f4",
+      "type": "SA",
+      "question": "Figure 2 shows a scatter plot of calorie intake ( <img src=\"images/questions/q14_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ) and weight gain in a week ( <img src=\"images/questions/q14_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ) for a person.\nBased on the relationship shown in Figure 2, what is the value of <img src=\"images/questions/q14_inline_3.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> when <img src=\"images/questions/q14_inline_4.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ?",
+      "question_images": [
+        "/question_images/JCtT8nU8oIcKJY2J91WoOYEiylIkFA3CETcitXtNPImiRu2hCr.png"
+      ],
+      "local_question_images": [
+        "images/questions/q14_1.png"
+      ],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Equal",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 127843,
+      "question_number": 15,
+      "uuid": "51f661f2-dde8-42fc-88d1-8e45b211b3c3",
+      "type": "SA",
+      "question": "A survey was conducted among a group of students to determine their preferred subjects. The raw frequencies of their responses are displayed in the bar chart in Figure 3.\nBased on the bar chart, what is the relative frequency of students who prefer Subject B? Enter the answer correct to 2 decimal places.",
+      "question_images": [
+        "/question_images/bXi1E6JQLXC7mzY7wLNWQqeV5QfpI89mCVHAwlPBfTI7vYbxG8.png"
+      ],
+      "local_question_images": [
+        "images/questions/q15_1.png"
+      ],
+      "options": [],
+      "total_mark": "2.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    },
+    {
+      "question_id": 127844,
+      "question_number": 16,
+      "uuid": "63bae171-99ad-4392-9aa4-d6d15ff82eda",
+      "type": "SA",
+      "question": "Table 2 shows the number of hours spent studying ( <img src=\"images/questions/q16_inline_1.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ) and the corresponding test scores ( <img src=\"images/questions/q16_inline_2.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> ) for 5 students.\nCalculate the Pearson correlation coefficient between <img src=\"images/questions/q16_inline_3.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> and <img src=\"images/questions/q16_inline_4.png\" class=\"inline-image\" style=\"display:inline;vertical-align:middle;max-height:1.5em;\" /> . Enter the answer correct to 2 decimal places.",
+      "question_images": [
+        "/question_images/lMiHwwlFN5QoRXVJnHvNxRvt4cEZ2heg2r8pwI4j4P3x2c5bFD.png"
+      ],
+      "local_question_images": [
+        "images/questions/q16_1.png"
+      ],
+      "options": [],
+      "total_mark": "5.00",
+      "answer_type": "Range",
+      "response_type": "Numeric"
+    }
+  ]
+}
